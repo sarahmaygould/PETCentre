@@ -1,0 +1,71 @@
+body {
+  font-family: "Lucida Sans Unicode","Lucida Grande","Lucida Sans","Arial";
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+.page-content {
+  background-color: white;
+  margin: 0 auto;
+  padding: 0;
+  min-width: 320px;
+  max-width: 1000px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo-containers {
+  float: left;
+}
+
+#page-header {
+  display: inline-block;
+}
+
+#pet-logo-container {
+  width: 50%;
+}
+
+#logo-pet {
+  width: 100%;
+  height: auto;
+}
+
+#other-logos-container {
+  margin: 10px;
+  float: right;
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#logo-kcl, #logo-gcc, #logo-gstt {
+  width: 100%;
+}
+
+#links-bar {
+  background-color: #2B4295;
+}
+
+.links-list-container {
+  clear: both;
+  margin: 10px 0 10px 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.links-list-item {
+  padding: 10px 10px 10px 10px;
+}
+
+.links-list-item a {
+  color: white;
+}
+
+#page-body {
+}
