@@ -1,0 +1,16 @@
+#image-container {
+  position: relative;
+  float: left;
+}
+
+.homepage-image {
+  position: relative;
+  margin: 10px;
+  display: block;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color: #f9f9f9;
+}
