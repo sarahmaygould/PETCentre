@@ -12,7 +12,7 @@
   <body>
     <div class = "page-content">
 
-      <?php include_once 'Header/header.html'; ?>
+      <?php include_once 'Header/header.php'; ?>
 
       <div id="page-body">
         <div id="top-section-container">
