@@ -8,7 +8,7 @@
         <a><img class="logos" id="logo-gstt" src="Header/images/logo_gstt.jpg"  alt="Guy&#39;s and St Thomas' logo"></a>
       </div>
       <div class="logo-containers" id="gcc-logo-container">
-        <a><img class="logos" id="logo-gcc" src="Header/images/logo_gcc.jpg"  alt="Guy&#39;s Cancer logo"></a>
+        <a><img class="logos" id="logo-gcc" src="logo_gcc.jpg"  alt="Guy&#39;s Cancer logo"></a>
       </div>
       <div class="logo-containers" id="kcl-logo-container">
         <a><img class="logos" id="logo-kcl" src="Header/images/logo_kcl.jpg"  alt="King&#39;s College London logo"></a>
