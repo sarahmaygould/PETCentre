@@ -11,7 +11,7 @@
         <a href="http://www.guysandstthomas.nhs.uk/our-services/cancer/overview.aspx" target="_blank"><img class="logos" id="logo-gcc" src="Header/images/logo_gcc.jpg"  alt="Guy&#39;s Cancer logo"></a>
       </div>
       <div class="logo-containers" id="kcl-logo-container">
-        <a href="http://www.kcl.ac.uk" target="_blank">><img class="logos" id="logo-kcl" src="Header/images/logo_kcl.jpg"  alt="King&#39;s College London logo"></a>
+        <a href="http://www.kcl.ac.uk" target="_blank"><img class="logos" id="logo-kcl" src="Header/images/logo_kcl.jpg"  alt="King&#39;s College London logo"></a>
       </div>
     </div>
   </div>
