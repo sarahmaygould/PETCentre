@@ -26,13 +26,13 @@
     				<p>
     					The PET Imaging Centre is part of both  King&#39;s College London's Faculty of Life Sciences and Medicine as well as Guy&#39;s and St Thomas&#39; NHS Foundation Trust. It is the leading clinical PET centre in the UK. Our work includes providing a clinical PET service for patients and carrying out clinically related research with collaborators from the Hospital, the Medical School and other institutions.
     				</p>
-
-    				<h1>Clinical PET-CT and PET-MR Scanning</h1>
-    				<p>
-    					The Centre is the first in the UK to have a purpose designed scanning suite, refurbished in 2013,  with two state-of-the-art PET-CT scanners and a simultaneous PET-MR scanner, the second of its kind in the UK. We have a third PET-CT scanner in the Cancer Centre at Guy&#39;s. Currently over 6000 patients a year are scanned, the vast majority of these being whole body FDG oncology studies. Medical staff in the centre are experts in the field having produced many of the standards and guidelines for the use of PET that have been endorsed/adopted by the professional	societies including The Royal College of Radiologists and bodies such as NICE.
-    				</p>
           </div>
         </div>
+
+        <h1>Clinical PET-CT and PET-MR Scanning</h1>
+        <p>
+          The Centre is the first in the UK to have a purpose designed scanning suite, refurbished in 2013,  with two state-of-the-art PET-CT scanners and a simultaneous PET-MR scanner, the second of its kind in the UK. We have a third PET-CT scanner in the Cancer Centre at Guy&#39;s. Currently over 6000 patients a year are scanned, the vast majority of these being whole body FDG oncology studies. Medical staff in the centre are experts in the field having produced many of the standards and guidelines for the use of PET that have been endorsed/adopted by the professional	societies including The Royal College of Radiologists and bodies such as NICE.
+        </p>
 
 				<h1>Teaching and Training</h1>
 				<p>
