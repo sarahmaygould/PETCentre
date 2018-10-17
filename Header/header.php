@@ -1,7 +1,7 @@
 <html>
 <div id="page-header">
   <div class="logo-containers" id="pet-logo-container">
-    <a href="index.php"><img class="logos" id="logo-pet" src="/Header/images/logo_pet.jpg"  alt="PET Imaging Centre logo"></a>
+    <a href="/index.php"><img class="logos" id="logo-pet" src="/Header/images/logo_pet.jpg"  alt="PET Imaging Centre logo"></a>
   </div>
   <div class="logo-containers" id="other-logos-container">
     <div class="logo-containers" id="gstt-logo-container">
