@@ -82,26 +82,27 @@ a {
 }
 
 .navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: red;
+  background-color: white;
+  color: #2B4295;
 }
 
 .subnav-content {
   display: none;
   position: absolute;
-  left: 0;
-  background-color: red;
+  background-color: white;
   z-index: 1;
 }
 
 .subnav-content a {
-  float: left;
-  color: white;
+  float: none;
+  color: #2B4295;
   text-decoration: none;
+  display: block;
+  text-align: left;
 }
 
 .subnav-content a:hover {
-  background-color: #eee;
-  color: black;
+  background-color: #f5f5f5;
 }
 
 .subnav:hover .subnav-content {
