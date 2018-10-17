@@ -17,7 +17,7 @@
       <?php include_once 'Header/header.php'; ?>
 
       <div class="page-body">
-        <div class="LI-container">
+        <div class="LR-container">
           <div class="LI-image">
             <img class="homepage-image" src="Index/images/reception_small.jpg" alt="PET Centre Reception" height="200">
             <img class="homepage-image" src="Index/images/PETCT_Emma_small.jpg" alt="PET-CT Scanner with patient" height="200">
