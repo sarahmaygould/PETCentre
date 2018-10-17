@@ -65,6 +65,9 @@
             <img src="images/HotLab_small.jpg" alt="Scanning at the PET Centre" height="200">
           </div>
         </div>
+
+        <div class="page-end"></div>
+
       </div>
     </div>
   </body>

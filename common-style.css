@@ -30,6 +30,11 @@ body {
   background-color: #dddddd;
 }
 
+.page-end {
+  background-color: #dddddd;
+  height: 2.5em;
+}
+
 h1 {
   font-size: 120%;
   padding: 0 10px 0 10px;
