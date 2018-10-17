@@ -14,7 +14,7 @@
   <body>
     <div class = "page-content">
 
-      <?php include_once '../Header/header.php'; ?>
+      <?php include_once '../index.php'; ?>
 
       <div class="page-body">
         <div class="LR-container">
