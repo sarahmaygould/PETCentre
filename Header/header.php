@@ -20,7 +20,7 @@
   <div class="subnav">
     <button class="subnavbtn">About Us</button>
     <div class="subnav-content">
-      <a href="about_us.php">What We Do</a>
+      <a href="../About/about_us.php">What We Do</a>
       <a href="about_us.php">Clinical and Management Team</a>
       <a href=about_us.php>Other Staff Members</a>
     </div>
