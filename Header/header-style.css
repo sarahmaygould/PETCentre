@@ -60,27 +60,26 @@
 }
 
 .navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: white;
-  color: #373737;
+  background-color: #71BD51;
 }
 
 .subnav-content {
   display: none;
   position: absolute;
-  background-color: white;
+  background-color: #71BD51;
   z-index: 1;
 }
 
 .subnav-content a {
   float: none;
-  color: #373737;
+  color: white;
   text-decoration: none;
   display: block;
   text-align: left;
 }
 
 .subnav-content a:hover {
-  background-color: #f5f5f5;
+  background-color: #64ac44;
 }
 
 .subnav:hover .subnav-content {

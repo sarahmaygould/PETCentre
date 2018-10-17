@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="../Header/header-style.css">
-    <link rel="stylesheet" type="text/css" href="what_we_do-style.css">
     <link rel="stylesheet" type="text/css" href="../common-style.css">
     <title>The PET Centre</title>
   </head>
@@ -17,12 +16,14 @@
       <?php include_once '../Header/header.php'; ?>
 
       <div class="page-body">
+        <div class="page-title">
+          What We Do
+        </div>
         <div class="LR-container">
           <div class="LI-image">
             <img src="images/PETCT_Emma_small_2.jpg" alt="Scanning at the PET Centre" height="200">
           </div>
           <div class="LI-text">
-            <h1>What We Do</h1>
     				<p>
     					The PET Imaging Centre is part of both  King&#39;s College London's Faculty of Life Sciences and Medicine as well as Guy&#39;s and St Thomas&#39; NHS Foundation Trust. It is the leading clinical PET centre in the UK. Our work includes providing a clinical PET service for patients and carrying out clinically related research with collaborators from the Hospital, the Medical School and other institutions.
     				</p>
@@ -63,6 +64,7 @@
           <div class="RI-image">
             <img src="images/HotLab_small.jpg" alt="Scanning at the PET Centre" height="200">
           </div>
+        </div>
       </div>
     </div>
   </body>
