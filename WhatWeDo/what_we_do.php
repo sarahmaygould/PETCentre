@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="../Header/header-style.css">
-    <link rel="stylesheet" type="text/css" href="about-style.css">
+    <link rel="stylesheet" type="text/css" href="what_we_do-style.css">
     <link rel="stylesheet" type="text/css" href="../common-style.css">
     <title>The PET Centre</title>
   </head>
@@ -14,7 +14,7 @@
   <body>
     <div class = "page-content">
 
-      <?php include_once 'Header/header.php'; ?>
+      <?php include_once '../Header/header.php'; ?>
 
       <div class="page-body">
         <div class="LR-container">
