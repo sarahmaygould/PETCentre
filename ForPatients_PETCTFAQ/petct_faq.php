@@ -7,7 +7,6 @@
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="../Header/header-style.css">
     <link rel="stylesheet" type="text/css" href="../common-style.css">
-    <link rel="stylesheet" type="text/css" href="your_visit-style.css">
     <title>The PET Centre</title>
   </head>
 
