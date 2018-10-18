@@ -20,17 +20,17 @@
   <div class="subnav">
     <button class="subnavbtn">About Us</button>
     <div class="subnav-content">
-      <a href="../WhatWeDo/what_we_do.php">What We Do</a>
-      <a href="../ClinicalManagementTeam/clinical_management.php">Clinical and Management Team</a>
-      <a href="../OtherStaff/other_staff.php">Other Staff Members</a>
+      <a href="../AboutUs_WhatWeDo/what_we_do.php">What We Do</a>
+      <a href="../AboutUs_ClinicalManagementTeam/clinical_management.php">Clinical and Management Team</a>
+      <a href="../AboutUs_OtherStaff/other_staff.php">Other Staff Members</a>
     </div>
   </div>
   <div class="subnav">
     <button class="subnavbtn">For Patients</button>
     <div class="subnav-content">
-      <a href="about_us.php">What We Do</a>
-      <a href="about_us.php">Clinical and Management Team</a>
-      <a href=about_us.php>Other Staff Members</a>
+      <a href="../ForPatients_YourVisit/your_visit.php">Your Visit</a>
+      <a href="../ForPatients_PETCTFAQ/petct_faq.php">FAQs for PET-CT</a>
+      <a href="../ForPatients_PETMRFAQ/petmr_faq.php">FAQs for PET-MR</a>
     </div>
   </div>
   <div class="subnav">

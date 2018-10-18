@@ -70,7 +70,7 @@
             </tr>
             <tr>
               <td class="staff-table-name">Sami Jeljeli</td>
-              <td class="staff-table-title">Senior Imaging Technologist</td>
+              <td class="staff-table-title">PET-MR Lead Radiographer</td>
             </tr>
             <tr>
               <td class="staff-table-name">Sofia Pereira</td>
