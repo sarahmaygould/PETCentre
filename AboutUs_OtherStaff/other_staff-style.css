@@ -19,5 +19,10 @@
 
 .staff-table-title {
   text-align: left;
-  width: 60%;
+  width: 50%;
+}
+
+.staff-table-sectionhead {
+  text-align: right;
+  width: 50%;
 }

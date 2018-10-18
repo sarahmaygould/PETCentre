@@ -22,8 +22,11 @@
         </div>
 
         <div class="staff-group-container">
-          <h1>Administrative/Reception Team</h1>
           <table class="staff-group-table">
+            <tr>
+              <td class="staff-table-sectionhead"><h1>Administrative/Reception Team</h1></td>
+              <td></td>
+            </tr>
             <tr>
               <td class="staff-table-name">Janet Reed-Stevens</td>
               <td class="staff-table-title">PET Administrative Operational Manager</td>
@@ -54,8 +57,11 @@
         <hr>
 
         <div class="staff-group-container">
-          <h1>Imaging Technologists and Radiographers</h1>
           <table class="staff-group-table">
+            <tr>
+              <td class="staff-table-sectionhead"><h1>Imaging Technologists and Radiographers</h1></td>
+              <td></td>
+            </tr>
             <tr>
               <td class="staff-table-name">Joemon John</td>
               <td class="staff-table-title">Superintendant Radiographer and RPS</td>
@@ -98,8 +104,11 @@
         <hr>
 
         <div class="staff-group-container">
-          <h1>Clinical Scientist Team</h1>
           <table class="staff-group-table">
+            <tr>
+              <td class="staff-table-sectionhead"><h1>Clinical Scientist Team</h1></td>
+              <td></td>
+            </tr>
             <tr>
               <td class="staff-table-name">Jane MacKewn</td>
               <td class="staff-table-title">Senior Clinical Scientist</td>
@@ -135,8 +144,11 @@
         <hr>
 
         <div class="staff-group-container">
-          <h1>Radiochemistry Team</h1>
           <table class="staff-group-table">
+            <tr>
+              <td class="staff-table-sectionhead"><h1>Radiochemistry Team</h1></td>
+              <td></td>
+            </tr>
             <tr>
               <td class="staff-table-name">Farah Shah</td>
               <td class="staff-table-title">Radiochemistry Operations Manager</td>
