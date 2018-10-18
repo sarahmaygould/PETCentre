@@ -22,7 +22,7 @@
     <div class="subnav-content">
       <a href="../WhatWeDo/what_we_do.php">What We Do</a>
       <a href="../ClinicalManagementTeam/clinical_management.php">Clinical and Management Team</a>
-      <a href=about_us.php>Other Staff Members</a>
+      <a href="../OtherStaff/other_staff.php">Other Staff Members</a>
     </div>
   </div>
   <div class="subnav">
