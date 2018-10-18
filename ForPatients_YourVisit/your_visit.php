@@ -39,6 +39,7 @@
           This video was designed specifically to cover PET scans in cancer patients, but has some helpful general information about how PET scans work, including a walk through of the process.
         </p>
         <p>
+          <iframe id="video-guide" width="610" height="300" src="http://www.youtube.com/v/JdlRoloYFVs"></iframe> 
           <object id="video-guide" width="610" height="300" data="http://www.youtube.com/v/JdlRoloYFVs" type="application/x-shockwave-flash"></object>
         </p>
 
