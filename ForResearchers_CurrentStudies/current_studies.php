@@ -28,9 +28,9 @@
         <hr>
 
         <h1>Current Neurology Projects</h1>
-        <p>Tracers currently used in our neurology studies include: [18F]Fallypride, [18F]Florbetapir, [18F]Florbetaben, [18F] DPA-714, GE179.</p>
+        <p>Tracers currently used in our neurology studies include: [<sup>18</sup>F]Fallypride, [<sup>18</sup>F]Florbetapir, [<sup>18</sup>F]Florbetaben, [<sup>18</sup>F] DPA-714, GE179.</p>
         <ul>
-          <li>Tracking myelin changes in vivo with 18F-florbetapen PET and MRI in patients with Multiple Sclerosis. A Proof of concept Pilot study</li>
+          <li>Tracking myelin changes in vivo with <sup>18</sup>F-florbetapen PET and MRI in patients with Multiple Sclerosis. A Proof of concept Pilot study</li>
           <li>A phase III, randomized, placebo-controlled, parallel-group, double blind clinical trial to study the efficacy and safety of MK-8931 (SCH 900931) in subjects with amnestic Mild Cognitive Impairment due to Alzheimer's Disease (prodromal AD).</li>
           <li>Investigating the role of glutamate and the N-methyl-D-aspartate-Receptor (NMDAR) in brain function</li>
           <li>Investigating the effect of Continuous Positive Airway Pressure on the Neuropathology of Obstructive Sleep Apnoea (INCOSA)</li>
@@ -42,12 +42,12 @@
         <hr>
 
         <h1>Current Oncology Projects</h1>
-        <p>Tracers currently used in our oncology studies include: [18F]FDG, [18F]Fluoride, [18F]Choline, [18F]MISO, [68Ga]PSMA, [18F]Fluciclovine</p>
+        <p>Tracers currently used in our oncology studies include: [<sup>18</sup>F]FDG, [<sup>18</sup>F]Fluoride, [<sup>18</sup>F]Choline, [<sup>18</sup>F]MISO, [<sup>68</sup>Ga]PSMA, [<sup>18</sup>F]Fluciclovine</p>
         <ul>
           <li>A Phase 1 Study of LY3039478 in Patients with Advanced or Metastatic Cancer (NOTCH)</li>
           <li>MRI assessment of hypoxia and perfusion in primary colorectal cancer: Correlation with imaging and immunohistochemical markers of hypoxia (MATCH)</li>
           <li>METfomin And Longevity (METAL): A window of opportunity study investigating biological effects of metformin in localised prostate cancer</li>
-          <li>A phase 3, open-label study to assess the utility of Fluciclovine (18F) Injection PET/CT in patients with prostate cancer with biochemical recurrence after initial treatment - BED007</li>
+          <li>A phase 3, open-label study to assess the utility of Fluciclovine (<sup>18</sup>F) Injection PET/CT in patients with prostate cancer with biochemical recurrence after initial treatment - BED007</li>
           <li>A randomized double-blind phase 3 study of avelumab in combination with standard of care chemoradiotherapy (cisplatin plus definitive radiation therapy) versus standard of care chemoradiotherapy in the front-line treatment of patients with locally advanced squamous cell carcinoma of the head and neck - JAVELIN</li>
           <li>An open label, single arm pilot study of OncoSil<sup>TM</sup>, administered to study participants with unresectable locally advanced pancreatic adenocarcinoma, given in combination with FOLFIRINOX or gemcitabine+nab-paclitaxel chemotherapies - OncoSil PANCO </li>
           <li>A pilot study of positron lymphography for pre-operative axillary nodal staging among breast cancer patients</li>
@@ -58,9 +58,9 @@
           <li>Histological correlation for textural features of PET &ceCT in NSCLC - FALCON</li>
           <li>First international Inter-Group Study for nodular lymphocyte predominant Hodgkin`s Lymphoma in Children and Adolescents EuroNet-PHL-LP1</li>
           <li>Functional Imaging for Response evaluation assessment in rectal cancer.</li>
-          <li>Evaluation of treatment response and resistance in metastatic renal cell cancer (mRCC) using integrated 18F-Fluorodeoxyglucose (18F-FDG) positron emission tomography/magneticresonance imaging (PET/MRI): The REMAP study</li>
-          <li>Response evaluation in myeloma patients using integrated 18F-Fluorodeoxyglucose (18F-FDG) positron emission tomography/magnetic resonance imaging (PET/MRI): The REVAMP study.</li>
-          <li>FABB: B A study using functional imaging biomarkers including 18F-fluoride PET, 18FDG PET and DW MRI to assess early treatment response in skeletal metastases from breast cancer.</li>
+          <li>Evaluation of treatment response and resistance in metastatic renal cell cancer (mRCC) using integrated <sup>18</sup>F-Fluorodeoxyglucose (<sup>18</sup>F-FDG) positron emission tomography/magneticresonance imaging (PET/MRI): The REMAP study</li>
+          <li>Response evaluation in myeloma patients using integrated 18F-Fluorodeoxyglucose (<sup>18</sup>F-FDG) positron emission tomography/magnetic resonance imaging (PET/MRI): The REVAMP study.</li>
+          <li>FABB: B A study using functional imaging biomarkers including <sup>18</sup>F-fluoride PET, <sup>18</sup>FDG PET and DW MRI to assess early treatment response in skeletal metastases from breast cancer.</li>
           <li>FAB P - Functional Assessment of Bone metastases in Prostate cancer</li>
           <li>Improving non-invasive diagnosis and characterisation of prostate cancer with PET/MRI - PROSPER</li>
           <li>Histological correlation for textural features of PET &ceCT in NSCLC</li>
@@ -70,9 +70,9 @@
 
         <h1>Current Osteoporosis Projects</h1>
         <ul>
-          <li>An open-label, single centre, pilot study exploring the impact of switching to Emtricitabine/Rilpivirine/Tenofovir Alafenamide (FTC/RPV/TAF) Fixed Dose Combination (FDC) on regional bone turnover measured using 18F-PET in HIV-1-infected patients virologically suppressed on Emtricitabine/Rilpivirine/Tenofovir Disoproxil Fumarate (FTC/RPV/TDF). PETRAM</li>
+          <li>An open-label, single centre, pilot study exploring the impact of switching to Emtricitabine/Rilpivirine/Tenofovir Alafenamide (FTC/RPV/TAF) Fixed Dose Combination (FDC) on regional bone turnover measured using <sup>18</sup>F-PET in HIV-1-infected patients virologically suppressed on Emtricitabine/Rilpivirine/Tenofovir Disoproxil Fumarate (FTC/RPV/TDF). PETRAM</li>
           <li>A randomized, placebo-controlled study to assess the safety, tolerability, pharmacokinetics, and effects on heterotopic bone formation of regn2477 in patients with fibrodysplasia ossificans progressiva - REGENERON FOP</li>
-        </ul>        
+        </ul>
 
       </div>
       <div class="page-end"></div>
