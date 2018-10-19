@@ -19,14 +19,14 @@ body {
 
 .page-body {
   font-size: 90%;
-  margin: 1em;
+  margin: 0 1em 1em 1em;
 }
 
 .page-title {
   font-size: 170%;
   font-weight: bold;
   text-align: center;
-  padding-bottom: 1em;
+  padding: 1em;
   border-bottom: 2px solid #f5f5f5;
 }
 
