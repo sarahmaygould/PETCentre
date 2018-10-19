@@ -195,7 +195,7 @@
 
         <h1>When will I get the results?</h1>
         <p>
-          The results will be sent to the doctor who referred you for the scan â€“ usually a hospital specialist. If you make a clinic appointment for two weeks after the scan, the results should be available. For more urgent problems, they will be available sooner.
+          The results will be sent to the doctor who referred you for the scan. If you make a clinic appointment for two weeks after the scan, the results should be available. For more urgent problems, they will be available sooner.
         </p>
 
         <div class="page-end"></div>

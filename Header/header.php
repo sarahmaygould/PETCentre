@@ -33,14 +33,7 @@
       <a href="../ForPatients_PETMRFAQ/petmr_faq.php">FAQs for PET-MR</a>
     </div>
   </div>
-  <div class="subnav">
-    <button class="subnavbtn">For Clinicians</button>
-    <div class="subnav-content">
-      <a href="about_us.php">What We Do</a>
-      <a href="about_us.php">Clinical and Management Team</a>
-      <a href=about_us.php>Other Staff Members</a>
-    </div>
-  </div>
+  <a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>
   <div class="subnav">
     <button class="subnavbtn">For Researchers</button>
     <div class="subnav-content">
