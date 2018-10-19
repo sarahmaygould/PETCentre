@@ -80,10 +80,8 @@
         <p>
           For further information please <a href="../ContactUs/contact_us.php">contact us</a>.
         </p>
-
-        <div class="page-end"></div>
-
       </div>
+      <div class="page-end"></div>
     </div>
   </body>
 

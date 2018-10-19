@@ -65,10 +65,8 @@
         <p>
           The department can be contacted by telephone, e-mail or post.  Directions, travel information and building maps can be found <a href="http://www.guysandstthomas.nhs.uk/patients-and-visitors/getting-here/travel-st-thomas.aspx">here</a> (for the PET Centre at St Thomas&#39; Hospital), or <a href="http://www.guysandstthomas.nhs.uk/our-services/cancer/visiting/getting-here/finding-cancer-centre.aspx">here</a> (for the PET Suite within the Cancer Centre at Guy&#39;s Hospital). Visit our <a href="../ContactUs/contact_us.php">Contact Us</a> page for further details.
         </p>
-
-        <div class="page-end"></div>
-
       </div>
+      <div class="page-end"></div>
     </div>
   </body>
 

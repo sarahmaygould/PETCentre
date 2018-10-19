@@ -197,10 +197,8 @@
         <p>
           The results will be sent to the doctor who referred you for the scan. If you make a clinic appointment for two weeks after the scan, the results should be available. For more urgent problems, they will be available sooner.
         </p>
-
-        <div class="page-end"></div>
-
       </div>
+      <div class="page-end"></div>
     </div>
   </body>
 

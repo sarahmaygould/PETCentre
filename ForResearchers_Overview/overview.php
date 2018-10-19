@@ -60,10 +60,8 @@
 				<p>
 					In cardiology there is interest in measuring blood flow and metabolism with a variety of tracers.
 				</p>
-
-        <div class="page-end"></div>
-
       </div>
+      <div class="page-end"></div>
     </div>
   </body>
 

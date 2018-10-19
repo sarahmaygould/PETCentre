@@ -66,9 +66,8 @@
           </div>
         </div>
 
-        <div class="page-end"></div>
-
       </div>
+      <div class="page-end"></div>
     </div>
   </body>
 

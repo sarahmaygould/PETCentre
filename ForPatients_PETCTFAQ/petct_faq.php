@@ -144,10 +144,8 @@
 				<p>
 					We will send the results to the doctor who requested the scan, usually within 48 hours of the scan being completed. If results are needed more urgently your doctor can ask us to email or fax them. If you have a further appointment with your doctor please let us know the date when you attend for your scan.
 				</p>
-
-        <div class="page-end"></div>
-
       </div>
+      <div class="page-end"></div>
     </div>
   </body>
 
