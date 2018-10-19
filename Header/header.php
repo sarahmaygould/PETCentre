@@ -37,9 +37,9 @@
   <div class="subnav">
     <button class="subnavbtn">For Researchers</button>
     <div class="subnav-content">
-      <a href="about_us.php">What We Do</a>
-      <a href="about_us.php">Clinical and Management Team</a>
-      <a href=about_us.php>Other Staff Members</a>
+      <a href="../ForResearchers_Overview/overview.php">Overview</a>
+      <a href="../ForResearchers_SetUp/set_up.php">Setting Up a Study</a>
+      <a href="../ForResearchers_CurrentStudies/current_studies.php">Current Studies</a>
     </div>
   </div>
   <a href="case_of_the_month.php">Case of the Month</a>
