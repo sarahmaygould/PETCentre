@@ -1,14 +1,19 @@
 <?php
+$page_name = basename($_SERVER['PHP_SELF']);
 
-echo "hello";
-$news_item_array = array_map('str_getcsv', file("news_items.csv"));
+if ($page_name == "index.php") {
+  $path_to_news = "News/news_items.csv";
+}
+else {
+  $path_to_news = "news_items.csv"
+}
+
+$news_item_array = array_map('str_getcsv', file($path_to_news));
 unset($news_item_array[0]);
 $start_loop = 1;
 $counter = 1;
 
-$page_name = basename($_SERVER['PHP_SELF']);
 $display_tag = 3; // Index of News Page settings
-
 if ($page_name == "index.php") {
   $display_tag = 3; // Index of Index Page settings
 }
