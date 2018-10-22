@@ -15,8 +15,7 @@
     <?php
 
     $fileName = "news_items.csv";
-    $csv = array_map('str_getcsv', file($fileName));
-    print_r($csv);
+    $news_item_array = array_map('str_getcsv', file($fileName));
 
       $itemImage = "PETMRCourse_small.jpg";
       $itemTitle = "Simultaneous PET-MR Course";
@@ -35,11 +34,11 @@
 
         <div class="LR-container">
           <div class="LI-image">
-            <img src="images/<?php echo $itemImage?>" alt="<?php echo $itemImage?>" height="200">
+            <img src="images/<?php echo $news_item_array[1][3]?>" alt="<?php echo $news_item_array[1][3]?>" height="200">
           </div>
           <div class="LI-text staff-section">
-            <h1><?php echo $itemTitle?></h1>
-            <?php echo $itemContent?>
+            <h1><?php echo $news_item_array[1][1]?></h1>
+            <?php echo $news_item_array[1][2]?>
           </div>
         </div>
 
