@@ -24,7 +24,7 @@
         </div>
 
         <?php foreach ($news_item_array as $news_item) { ?>
-          <?php echo $news_item ?>
+          <?php echo $news_item[1] ?>
           <div class="LR-container">
             <div class="LI-image">
               <img src="images/<?php echo $news_item_array[$news_item][2]?>" alt="<?php echo $news_item_array[$news_item][2]?>" height="200">
