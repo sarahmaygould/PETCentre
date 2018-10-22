@@ -12,16 +12,7 @@
 
   <body>
 
-    <?php
-
-    $fileName = "news_items.csv";
-    $news_item_array = array_map('str_getcsv', file($fileName));
-
-      $itemImage = "PETMRCourse_small.jpg";
-      $itemTitle = "Simultaneous PET-MR Course";
-      $itemContent = "Some text here.";
-
-    ?>
+    <?php $news_item_array = array_map('str_getcsv', file("news_items.csv"))?>
 
     <div class = "page-content">
 
@@ -32,17 +23,19 @@
           News
         </div>
 
-        <div class="LR-container">
-          <div class="LI-image">
-            <img src="images/<?php echo $news_item_array[1][2]?>" alt="<?php echo $news_item_array[1][2]?>" height="200">
+        <?php foreach ($news_item_array as $news_item) { ?>
+          <div class="LR-container">
+            <div class="LI-image">
+              <img src="images/<?php echo $news_item_array[$news_item][2]?>" alt="<?php echo $news_item_array[$news_item][2]?>" height="200">
+            </div>
+            <div class="LI-text staff-section">
+              <h1><?php echo $news_item_array[$news_item][0]?></h1>
+              <?php echo $news_item_array[$news_item][1]?>
+            </div>
           </div>
-          <div class="LI-text staff-section">
-            <h1><?php echo $news_item_array[1][0]?></h1>
-            <?php echo $news_item_array[1][1]?>
-          </div>
-        </div>
+          <hr>
 
-        <hr>
+        <?php } ?>
 
       </div>
       <div class="page-end"></div>
