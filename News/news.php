@@ -13,7 +13,9 @@
   <body>
 
     <?php
-      $news_from_csv = array_map('str_getcsv', file('news.csv'));
+
+      $news_from_csv = $array();
+      $news_from_csv = array_map('str_getcsv', file('news_items.csv'));
       $itemImage = "PETMRCourse_small.jpg";
       $itemTitle = "Simultaneous PET-MR Course";
       $itemContent = "Some text here.";
