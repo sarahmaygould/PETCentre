@@ -14,9 +14,12 @@
   <body>
 
     <?php
+      $news_from_csv = array_map('str_getcsv', file('news.csv'));
       $itemImage = "PETMRCourse_small.jpg";
       $itemTitle = "Simultaneous PET-MR Course";
       $itemContent = "Some text here.";
+
+      print_r($news_from_csv);
     ?>
 
     <div class = "page-content">
