@@ -5,7 +5,7 @@ if ($page_name == "index.php") {
   $path_to_news = "News/news_items.csv";
 }
 else {
-  $path_to_news = "news_items.csv"
+  $path_to_news = "news_items.csv";
 }
 
 $news_item_array = array_map('str_getcsv', file($path_to_news));
@@ -15,7 +15,7 @@ $counter = 1;
 
 $display_tag = 3; // Index of News Page settings
 if ($page_name == "index.php") {
-  $display_tag = 3; // Index of Index Page settings
+  $display_tag = 4; // Index of Index Page settings
 }
 
 foreach ($news_item_array as $news_item) {
