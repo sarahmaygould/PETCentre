@@ -14,7 +14,7 @@
 
     <?php
 
-    $fileName = "news_items0.csv"
+    $fileName = "news_items0.csv";
     $csvData = file_get_contents($fileName);
     $lines = explode(PHP_EOL, $csvData);
     $array = array();
