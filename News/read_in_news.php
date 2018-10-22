@@ -8,7 +8,7 @@ $page_name = basename($_SERVER['PHP_SELF']);
 $display_tag = 3; // Index of News Page settings
 
 if ($page_name == "index.php") {
-  $display_tag = 4; // Index of Index Page settings
+  $display_tag = 3; // Index of Index Page settings
 }
 
 foreach ($news_item_array as $news_item) {
