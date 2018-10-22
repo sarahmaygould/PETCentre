@@ -12,7 +12,10 @@
 
   <body>
 
-    <?php $news_item_array = array_map('str_getcsv', file("news_items.csv"))?>
+    <?php
+      $news_item_array = array_map('str_getcsv', file("news_items.csv"));
+      unset($news_item_array[0]);
+    ?>
 
     <div class = "page-content">
 
@@ -24,14 +27,13 @@
         </div>
 
         <?php foreach ($news_item_array as $news_item) { ?>
-          <?php echo $news_item[1] ?>
           <div class="LR-container">
             <div class="LI-image">
-              <img src="images/<?php echo $news_item_array[$news_item][2]?>" alt="<?php echo $news_item_array[$news_item][2]?>" height="200">
+              <img src="images/<?php echo $news_item[2]?>" alt="<?php echo $news_item[2]?>" height="200">
             </div>
             <div class="LI-text staff-section">
-              <h1><?php echo $news_item_array[$news_item][0]?></h1>
-              <?php echo $news_item_array[$news_item][1]?>
+              <h1><?php echo $news_item[0]?></h1>
+              <?php echo $news_item[1]?>
             </div>
           </div>
           <hr>
