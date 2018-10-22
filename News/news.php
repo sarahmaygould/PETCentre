@@ -7,7 +7,6 @@
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="../Header/header-style.css">
     <link rel="stylesheet" type="text/css" href="../common-style.css">
-    <link rel="stylesheet" type="text/css" href="clinical_management-style.css">
     <title>The PET Centre</title>
   </head>
 
@@ -19,7 +18,9 @@
       $itemTitle = "Simultaneous PET-MR Course";
       $itemContent = "Some text here.";
 
-      print_r($news_from_csv);
+      echo "<pre>";
+        print_r($array);
+      echo "/<pre>"; 
     ?>
 
     <div class = "page-content">
