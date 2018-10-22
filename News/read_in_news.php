@@ -1,12 +1,18 @@
 <?php
-echo basename($_SERVER['PHP_SELF']);
 $news_item_array = array_map('str_getcsv', file("news_items.csv"));
 unset($news_item_array[0]);
 $start_loop = 1;
 $counter = 1;
 
+$page_name = basename($_SERVER['PHP_SELF']);
+$display_tag = 3 // Index of News Page settings
+
+if ($page_name == "index.php") {
+  $display_tag = 4;
+}
+
 foreach ($news_item_array as $news_item) {
-  if ($news_item[3] == "TRUE") {
+  if ($news_item[$display_tag] == "TRUE") {
     if ($start_loop == 0) echo "<hr>";
     if ($counter % 2 != 0) {
 ?>
