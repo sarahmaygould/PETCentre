@@ -44,7 +44,7 @@
   </div>
   <a href="case_of_the_month.php">Case of the Month</a>
   <a href="courses.php">Courses</a>
-  <a href="news.php">News</a>
+  <a href="../News/news.php">News</a>
   <a href="../ContactUs/contact_us.php">Contact Us</a>
 </div>
 
