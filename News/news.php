@@ -27,17 +27,19 @@
           News
         </div>
 
-        <?php foreach ($news_item_array as $news_item) { ?>
+        <?php foreach ($news_item_array as $news_item) {
+          if ($start_loop==0) echo "<hr>"; ?>
           <div class="LR-container">
             <div class="LI-image">
-              <img src="images/<?php echo $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="200">
+              <img src="images/<?php echo $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="150">
             </div>
             <div class="LI-text staff-section">
               <h1><?php echo $news_item[0]?></h1>
               <?php echo $news_item[1]?>
             </div>
           </div>
-        <?php } ?>
+        <?php $start_loop = 0;
+        } ?>
 
       </div>
       <div class="page-end"></div>
