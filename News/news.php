@@ -14,9 +14,9 @@
   <body>
 
     <?php
-      $itemImage = PETMRCourse_small.jpg
-      $itemTitle = Simultaneous PET-MR Course
-      $itemContent = Some text here.
+      $itemImage = "PETMRCourse_small.jpg";
+      $itemTitle = "Simultaneous PET-MR Course";
+      $itemContent = "Some text here.";
     ?>
 
     <div class = "page-content">
