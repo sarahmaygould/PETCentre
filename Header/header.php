@@ -1,4 +1,3 @@
-<html>
 <div id="page-header">
   <div class="logo-containers" id="pet-logo-container">
     <a href="/index.php"><img class="logos" id="logo-pet" src="/Header/images/logo_pet.jpg"  alt="PET Imaging Centre logo"></a>
@@ -47,5 +46,3 @@
   <a href="../News/news.php">News</a>
   <a href="../ContactUs/contact_us.php">Contact Us</a>
 </div>
-
-</html>
