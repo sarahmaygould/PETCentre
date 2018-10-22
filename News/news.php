@@ -15,13 +15,8 @@
     <?php
 
     $fileName = "news_items0.csv";
-    $csvData = file_get_contents($fileName);
-    $lines = explode(PHP_EOL, $csvData);
-    $array = array();
-    foreach ($lines as $line) {
-        $array[] = str_getcsv($line);
-    }
-    print_r($array);
+    $csv = array_map('str_getcsv', file('data.csv'));
+    print_r($csv);
 
       $itemImage = "PETMRCourse_small.jpg";
       $itemTitle = "Simultaneous PET-MR Course";
