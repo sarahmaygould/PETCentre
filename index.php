@@ -43,7 +43,7 @@
 
         <hr>
 
-        <?php include_once 'read_in_news.php'; ?>
+        <?php include_once 'News/read_in_news.php'; ?>
 
       </div>
       <div class="page-end"></div>
