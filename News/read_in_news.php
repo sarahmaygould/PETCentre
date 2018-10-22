@@ -1,4 +1,6 @@
 <?php
+
+echo "hello";
 $news_item_array = array_map('str_getcsv', file("news_items.csv"));
 unset($news_item_array[0]);
 $start_loop = 1;
