@@ -14,15 +14,19 @@
 
     <?php
 
-      $news_from_csv = $array();
-      $news_from_csv = array_map('str_getcsv', file('news_items.csv'));
+    $fileName = "news_items.csv"
+    $csvData = file_get_contents($fileName);
+    $lines = explode(PHP_EOL, $csvData);
+    $array = array();
+    foreach ($lines as $line) {
+        $array[] = str_getcsv($line);
+    }
+    print_r($array);
+
       $itemImage = "PETMRCourse_small.jpg";
       $itemTitle = "Simultaneous PET-MR Course";
       $itemContent = "Some text here.";
 
-      echo "<pre>";
-        print_r($news_from_csv);
-      echo "/<pre>";
     ?>
 
     <div class = "page-content">
