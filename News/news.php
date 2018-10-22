@@ -19,8 +19,8 @@
       $itemContent = "Some text here.";
 
       echo "<pre>";
-        print_r($array);
-      echo "/<pre>"; 
+        print_r($news_from_csv);
+      echo "/<pre>";
     ?>
 
     <div class = "page-content">
