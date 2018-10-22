@@ -14,7 +14,7 @@
 
     <?php
 
-    $fileName = "news_items0.csv";
+    $fileName = "news_items.csv";
     $csv = array_map('str_getcsv', file($fileName));
     print_r($csv);
 
