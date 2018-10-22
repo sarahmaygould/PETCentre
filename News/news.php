@@ -34,11 +34,11 @@
 
         <div class="LR-container">
           <div class="LI-image">
-            <img src="images/<?php echo $news_item_array[1][3]?>" alt="<?php echo $news_item_array[1][3]?>" height="200">
+            <img src="images/<?php echo $news_item_array[1][2]?>" alt="<?php echo $news_item_array[1][2]?>" height="200">
           </div>
           <div class="LI-text staff-section">
-            <h1><?php echo $news_item_array[1][1]?></h1>
-            <?php echo $news_item_array[1][2]?>
+            <h1><?php echo $news_item_array[1][0]?></h1>
+            <?php echo $news_item_array[1][1]?>
           </div>
         </div>
 
