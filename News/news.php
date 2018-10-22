@@ -15,7 +15,7 @@
     <?php
 
     $fileName = "news_items0.csv";
-    $csv = array_map('str_getcsv', file('data.csv'));
+    $csv = array_map('str_getcsv', file($fileName));
     print_r($csv);
 
       $itemImage = "PETMRCourse_small.jpg";
