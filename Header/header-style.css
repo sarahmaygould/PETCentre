@@ -91,11 +91,24 @@
     display: block;
   }
 
-  .subnav {
-    float: none;
+  .navbar a {
+    padding: 10px 0 10px 0;
   }
 
-  .subnavbtn, .subnav-content, .navbar a {
+  .subnav, .subnavbtn, .navbar a {
+    float: none;
+    display: block;
     width: 100%;
+    position: relative;
+  }
+
+  .subnav-content {
+    width: 100%;
+    position: relative;
+    display: block;
+  }
+
+  .subnav-content a {
+    text-align: center;
   }
 }
