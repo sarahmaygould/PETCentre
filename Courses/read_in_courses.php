@@ -1,8 +1,7 @@
 <?php
+echo "hello";
 $course_array = array_map('str_getcsv', file("courses.csv"));
 unset($course_array[0]);
-$start_loop = 1;
-$counter = 1;
 
 foreach ($course_array as $news_item) {
   if ($course[6] == "TRUE") {
@@ -28,7 +27,6 @@ foreach ($course_array as $news_item) {
       </div>
     </div>
   <?php
-
     echo "<hr>";
   }
 } ?>
