@@ -87,7 +87,7 @@ li {
 }
 
 @media screen and (max-width: 750px) {
-  #LR-container {
+  .LR-container {
     flex-direction: column;
   }
 }
