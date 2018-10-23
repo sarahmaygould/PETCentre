@@ -1,9 +1,8 @@
 <?php
-echo "hello";
 $course_array = array_map('str_getcsv', file("courses.csv"));
 unset($course_array[0]);
 
-foreach ($course_array as $news_item) {
+foreach ($course_array as $course) {
   if ($course[6] == "TRUE") {
 ?>
     <div class="LR-container">
