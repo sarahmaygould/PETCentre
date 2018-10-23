@@ -41,7 +41,9 @@
           </div>
         </div>
 
-        <hr>
+        <div class="page-title">
+          News Highlights
+        </div>
 
         <?php include_once 'News/read_in_news.php'; ?>
 

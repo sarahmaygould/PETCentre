@@ -2,13 +2,13 @@
 $page_name = basename($_SERVER['PHP_SELF']);
 
 if ($page_name == "index.php") {
-  $path_to_news = "News/news_items.csv";
+  $path_to_news = "News/";
 }
 else {
-  $path_to_news = "news_items.csv";
+  $path_to_news = "";
 }
 
-$news_item_array = array_map('str_getcsv', file($path_to_news));
+$news_item_array = array_map('str_getcsv', file($path_to_news . "news_items.csv"));
 unset($news_item_array[0]);
 $start_loop = 1;
 $counter = 1;
@@ -25,7 +25,7 @@ foreach ($news_item_array as $news_item) {
 ?>
     <div class="LR-container">
       <div class="LI-image">
-        <img src="images/<?php echo $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="150">
+        <img src="images/<?php echo $path_to_news . $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="150">
       </div>
       <div class="LI-text">
         <h1><?php echo $news_item[0]?></h1>
