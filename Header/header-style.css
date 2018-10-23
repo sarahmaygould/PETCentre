@@ -84,7 +84,6 @@
 
 .subnav:hover .subnav-content {
   display: block;
-  z-index: 0;
 }
 
 @media screen and (max-width: 750px) {
@@ -104,9 +103,14 @@
   .subnav-content, .navbar a {
     text-align: center;
     width: 100%;
+    display: block;
   }
 
   .navbar a {
     display: block;
+  }
+
+  .subnav-content a:hover {
+    background-color: #2B4295;
   }
 }
