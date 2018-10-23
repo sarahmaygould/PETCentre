@@ -87,6 +87,10 @@
 }
 
 @media screen and (max-width: 750px) {
+  .navbar {
+    display: block;
+  }
+
   .subnav, .subnavbtn {
     padding: 0;
     width: 100%;
