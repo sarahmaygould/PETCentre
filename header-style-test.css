@@ -1,0 +1,60 @@
+.logo-containers {
+  float: left;
+}
+
+#page-header {
+  display: inline-block;
+}
+
+#pet-logo-container {
+  width: 50%;
+}
+
+#logo-pet {
+  width: 100%;
+  height: auto;
+}
+
+#other-logos-container {
+  margin: 10px;
+  float: right;
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#logo-kcl, #logo-gcc, #logo-gstt {
+  width: 100%;
+}
+
+.navbar {
+  background-color: #2B4295;
+}
+
+.subnav, .subnavbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  background-color: #2B4295;
+  font-family: inherit;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.subnavbtn, .navbar a {
+  padding: 0.5em 0;
+}
+
+.subnav-content, .navbar a {
+  float: none;
+  color: white;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+.subnav-content {
+  background-color: #71BD51;
+}

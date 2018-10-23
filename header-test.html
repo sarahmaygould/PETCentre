@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="header-style-test.css">
+    <link rel="stylesheet" type="text/css" href="common-style.css">
+    <link rel="stylesheet" type="text/css" href="Index/index-style.css">
+    <title>The PET Centre</title>
+  </head>
+
+  <body>
+    <div class = "page-content">
+
+      <div id="page-header">
+        <div class="logo-containers" id="pet-logo-container">
+          <a href="/index.php"><img class="logos" id="logo-pet" src="Header/images/logo_pet.jpg"  alt="PET Imaging Centre logo"></a>
+        </div>
+        <div class="logo-containers" id="other-logos-container">
+          <div class="logo-containers" id="gstt-logo-container">
+            <a href="http://www.guysandstthomas.nhs.uk" target="_blank"><img class="logos" id="logo-gstt" src="Header/images/logo_gstt.jpg"  alt="Guy&#39;s and St Thomas' logo"></a>
+          </div>
+          <div class="logo-containers" id="gcc-logo-container">
+            <a href="http://www.guysandstthomas.nhs.uk/our-services/cancer/overview.aspx" target="_blank"><img class="logos" id="logo-gcc" src="Header/images/logo_gcc.jpg"  alt="Guy&#39;s Cancer logo"></a>
+          </div>
+          <div class="logo-containers" id="kcl-logo-container">
+            <a href="http://www.kcl.ac.uk" target="_blank"><img class="logos" id="logo-kcl" src="Header/images/logo_kcl.jpg"  alt="King&#39;s College London logo"></a>
+          </div>
+        </div>
+      </div>
+
+      <div class="navbar">
+        <div class="subnav">
+          <button class="subnavbtn">About Us</button>
+          <div class="subnav-content">
+            <a href="../AboutUs_WhatWeDo/what_we_do.php">What We Do</a>
+            <a href="../AboutUs_ClinicalManagementTeam/clinical_management.php">Clinical and Management Team</a>
+            <a href="../AboutUs_OtherStaff/other_staff.php">Other Staff Members</a>
+          </div>
+        </div>
+        <div class="subnav">
+          <button class="subnavbtn">For Patients</button>
+          <div class="subnav-content">
+            <a href="../ForPatients_YourVisit/your_visit.php">Your Visit</a>
+            <a href="../ForPatients_PETCTFAQ/petct_faq.php">FAQs for PET-CT</a>
+            <a href="../ForPatients_PETMRFAQ/petmr_faq.php">FAQs for PET-MR</a>
+          </div>
+        </div>
+        <a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>
+        <div class="subnav">
+          <button class="subnavbtn">For Researchers</button>
+          <div class="subnav-content">
+            <a href="../ForResearchers_Overview/overview.php">Overview</a>
+            <a href="../ForResearchers_SetUp/set_up.php">Setting Up a Study</a>
+            <a href="../ForResearchers_CurrentStudies/current_studies.php">Current Studies</a>
+          </div>
+        </div>
+        <a href="../CaseOfTheMonth/case_of_the_month.php">Case of the Month</a>
+        <a href="../Courses/courses.php">Courses</a>
+        <a href="../News/news.php">News</a>
+        <a href="../ContactUs/contact_us.php">Contact Us</a>
+      </div>
+
+
+      <div class="page-body">
+        <div class="LR-container">
+          <div class="LI-image">
+            <img class="index-image" src="Index/images/reception_small.jpg" alt="PET Centre Reception" width="300">
+            <img class="index-image" id="second-homepage-image" src="Index/images/PETCT_Emma_small.jpg" alt="PET-CT Scanner with patient" width="300">
+          </div>
+          <div class="LI-text">
+            <p>
+              With more than 20 years experience of PET and PET-CT scanning and now also PET-MR, the King&#39;s College London & Guy&#39;s and St Thomas&#39; PET Centre provides PET services for referred patients at a local and national level and performs clinically related research. We scan over 6000 patients per year, and the enhancements of our newly refurbished centre let us be there for our patients at every step of the experience and make it as smooth and comfortable as possible.
+            </p>
+            <p>
+              Our PET Centre is a centre of excellence with an international reputation for delivering the best patient care, highest quality academic research, and training. We strive to make a difference for the patients we scan, and via the research we perform.
+            </p>
+            <p>
+              <b>
+                Our mission is to perform basic, translational and applied clinical PET research across all specialties including oncology, neurology/psychiatry, and cardiology. We welcome work with external collaborators, including industry. We aim to obtain the best possible quality and reliability for all studies we perform.
+              </b>
+            </p>
+            <p>
+              <b>
+                The Centre develops exciting PET methodology (e.g. PET-MR), and also performs cutting-edge research into innovative radiochemistry using our in-house cyclotron and our wide range of multidisciplinary expertise.
+              </b>
+            </p>
+          </div>
+        </div>
+
+        <div class="page-title" id="index_news_title">
+          News Highlights
+        </div>
+
+        <?php include_once 'News/read_in_news.php'; ?>
+
+      </div>
+      <div class="page-end"></div>
+    </div>
+  </body>
+
+</html>
