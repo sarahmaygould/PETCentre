@@ -85,3 +85,9 @@ li {
 .RI-image {
   margin: 10px;
 }
+
+@media screen and (max-width: 750px) {
+  #LR-container {
+    flex-direction: column;
+  }
+}
