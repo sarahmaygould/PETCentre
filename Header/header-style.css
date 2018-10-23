@@ -102,5 +102,10 @@
 
   .subnav-content, .navbar a {
     text-align: center;
+    width: 100%;
+  }
+
+  .navbar a {
+    display: block;
   }
 }
