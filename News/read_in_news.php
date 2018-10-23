@@ -25,7 +25,7 @@ foreach ($news_item_array as $news_item) {
 ?>
     <div class="LR-container">
       <div class="LI-image">
-        <img src="<?php echo $path_to_news . "images/" . $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="200">
+        <img src="<?php echo $path_to_news . "images/" . $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="180">
       </div>
       <div class="LI-text">
         <h1><?php echo $news_item[0]?></h1>
@@ -40,7 +40,7 @@ foreach ($news_item_array as $news_item) {
         <?php echo $news_item[1]?>
       </div>
       <div class="RI-image">
-        <img src="<?php echo $path_to_news . "images/" . $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="200">
+        <img src="<?php echo $path_to_news . "images/" . $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="180">
       </div>
     </div>
   <?php }

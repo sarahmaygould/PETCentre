@@ -1,0 +1,31 @@
+#index_news_title {
+  border-top: 2px solid #f5f5f5;
+}
+
+.index-image {
+  width:300px;
+}
+
+@media screen and (max-width: 1000px) {
+  .index-image {
+    width: 100%;
+  }
+
+  #index-image-container {
+    min-width: 30%;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #index-LR-container {
+    flex-direction: column;
+  }
+
+  #index-image-container {
+    max-width: 80%;
+  }
+
+  #second-homepage-image {
+    display: none;
+  }
+}

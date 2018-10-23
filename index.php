@@ -7,6 +7,7 @@
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="Header/header-style.css">
     <link rel="stylesheet" type="text/css" href="common-style.css">
+    <link rel="stylesheet" type="text/css" href="Index/index-style.css">
     <title>The PET Centre</title>
   </head>
 
@@ -16,10 +17,10 @@
       <?php include_once 'Header/header.php'; ?>
 
       <div class="page-body">
-        <div class="LR-container">
-          <div class="LI-image">
-            <img src="Index/images/reception_small.jpg" alt="PET Centre Reception" height="200">
-            <img src="Index/images/PETCT_Emma_small.jpg" alt="PET-CT Scanner with patient" height="200">
+        <div class="LR-container" id="index-LR-container">
+          <div class="LI-image" id="index-image-container">
+            <img class="index-image" src="Index/images/reception_small.jpg" alt="PET Centre Reception">
+            <img class="index-image" id="second-homepage-image" src="Index/images/PETCT_Emma_small.jpg" alt="PET-CT Scanner with patient">
           </div>
           <div class="LI-text">
             <p>
