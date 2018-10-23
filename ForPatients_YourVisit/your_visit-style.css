@@ -2,3 +2,17 @@
   display: block;
   margin: auto;
 }
+
+#info-video-link {
+  display: none;
+}
+
+@media screen and (max-width: 650px) {
+  #info-video-link {
+    display: block;
+  }
+
+  #info-video-full {
+    display: none;
+  }
+}

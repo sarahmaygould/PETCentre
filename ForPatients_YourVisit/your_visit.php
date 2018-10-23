@@ -35,12 +35,22 @@
         <hr>
 
         <h1>Patient Information Video</h1>
-        <p>
-          This video was designed specifically to cover PET scans in cancer patients, but has some helpful general information about how PET scans work, including a walk through of the process.
-        </p>
-        <p>
-          <iframe id="video-guide" width="610" height="300" src="//www.youtube.com/embed/JdlRoloYFVs"></iframe>
-        </p>
+        <div id="info-video-full">
+          <p>
+            This video was designed specifically to cover PET scans in cancer patients, but has some helpful general information about how PET scans work, including a walk through of the process.
+          </p>
+          <p>
+            <iframe id="video-guide" width="610" height="300" src="//www.youtube.com/embed/JdlRoloYFVs"></iframe>
+          </p>
+        </div>
+        <div id="info-video-link">
+          <p>
+            The NCRI Core Lab has developed a video to guide you through what will happen when you attend the department for your scan. The video was designed specifically to cover PET scans in cancer patients, but has some helpful general information about how PET scans work, including a walk through of the process.
+          </p>
+          <p>
+            <a href="https://www.youtube.com/watch?v=JdlRoloYFVs">Click here to view the video.</a>
+          </p>
+        </div>
 
         <hr>
 
