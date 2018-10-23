@@ -41,7 +41,7 @@
       <a href="../ForResearchers_CurrentStudies/current_studies.php">Current Studies</a>
     </div>
   </div>
-  <a href="case_of_the_month.php">Case of the Month</a>
+  <a href="../CaseOfTheMonth/case_of_the_month.php">Case of the Month</a>
   <a href="../Courses/courses.php">Courses</a>
   <a href="../News/news.php">News</a>
   <a href="../ContactUs/contact_us.php">Contact Us</a>

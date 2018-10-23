@@ -14,7 +14,7 @@ foreach ($course_array as $course) {
         <?php echo $course[1]?>
 
         <p>
-          This course will next be held on <?php echo $course[5]?>.
+          This course will next be held on <b><?php echo $course[5]?></b>.
         </p>
         <p>
           <a href="<?php echo "documents/" . $course[3]?>" target="_blank">Click here to download the course flyer.</a>
