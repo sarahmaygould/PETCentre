@@ -85,3 +85,18 @@
 .subnav:hover .subnav-content {
   display: block;
 }
+
+@media screen and (max-width: 750px) {
+  .subnav, .subnavbtn {
+    padding: 0;
+    width: 100%;
+  }
+
+  .subnavbtn, .navbar a {
+    padding: 0.5em 0;
+  }
+
+  .subnav-content, .navbar a {
+    text-align: center;
+  }
+}
