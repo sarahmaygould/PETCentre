@@ -110,7 +110,8 @@
     display: block;
   }
 
-  .subnav-content a:hover {
+  .navbar a:hover, .subnav:hover .subnavbtn {
     background-color: #2B4295;
   }
+
 }
