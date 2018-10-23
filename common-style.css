@@ -86,8 +86,26 @@ li {
   margin: 10px;
 }
 
+@media screen and (max-width: 1000px) {
+  img {
+    width: 100%;
+  }
+
+  .LI-image, .RI-image {
+    min-width: 30%;
+  }
+}
+
 @media screen and (max-width: 750px) {
   .LR-container {
     flex-direction: column;
+  }
+
+  .LI-image, .RI-image {
+    max-width: 80%;
+  }
+
+  #second-homepage-image {
+    display: none;
   }
 }
