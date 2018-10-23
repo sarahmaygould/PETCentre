@@ -19,8 +19,8 @@
       <div class="page-body">
         <div class="LR-container">
           <div class="LI-image">
-            <img src="Index/images/reception_small.jpg" alt="PET Centre Reception" width="300">
-            <img id="second-homepage-image" src="Index/images/PETCT_Emma_small.jpg" alt="PET-CT Scanner with patient" width="300">
+            <img class="index-image" src="Index/images/reception_small.jpg" alt="PET Centre Reception" width="300">
+            <img class="index-image" id="second-homepage-image" src="Index/images/PETCT_Emma_small.jpg" alt="PET-CT Scanner with patient" width="300">
           </div>
           <div class="LI-text">
             <p>

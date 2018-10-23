@@ -91,8 +91,8 @@ li {
     width: 100%;
   }
 
-  .LI-image, .RI-image {
-    min-width: 30%;
+  .LI-image, .RI-image, .index-image {
+    min-width: 25%;
   }
 }
 
