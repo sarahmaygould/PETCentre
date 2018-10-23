@@ -41,7 +41,7 @@
           </div>
         </div>
 
-        <div class="page-title">
+        <div class="page-title" id="index_news_title">
           News Highlights
         </div>
 
