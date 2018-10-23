@@ -21,7 +21,7 @@
         </div>
         <div class="LR-container">
           <div class="LI-image">
-            <img src="images/PETCT_Emma_small_2.jpg" alt="Scanning at the PET Centre" height="200">
+            <img src="images/PETCT_Emma_small_2.jpg" alt="Scanning at the PET Centre" width="300">
           </div>
           <div class="LI-text">
     				<p>
@@ -62,7 +62,7 @@
             </p>
           </div>
           <div class="RI-image">
-            <img src="images/HotLab_small.jpg" alt="Scanning at the PET Centre" height="200">
+            <img src="images/HotLab_small.jpg" alt="Scanning at the PET Centre" width="200">
           </div>
         </div>
 

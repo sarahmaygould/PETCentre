@@ -28,7 +28,7 @@
     				</p>
           </div>
           <div class="RI-image">
-            <img src="images/ConsultChild_small.jpg" alt="Consultation at the PET Centre" height="200">
+            <img src="images/ConsultChild_small.jpg" alt="Consultation at the PET Centre" width="300">
           </div>
         </div>
 

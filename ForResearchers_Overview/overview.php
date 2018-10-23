@@ -22,7 +22,7 @@
 
         <div class="LR-container">
           <div class="LI-image">
-            <img src="images/ControlRoom_small.jpg" alt="View from the Control Room" height="350">
+            <img src="images/ControlRoom_small.jpg" alt="View from the Control Room" width="300">
           </div>
           <div class="LI-text">
             <h1>Overview</h1>

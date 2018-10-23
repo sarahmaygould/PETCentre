@@ -58,7 +58,7 @@
 
         <div class="LR-container">
           <div class="LI-image">
-            <img src="images/Reporting_small.jpg" alt="Sally Barrington reporting" height="200">
+            <img src="images/Reporting_small.jpg" alt="Sally Barrington reporting" width="300">
           </div>
           <div class="LI-text">
             <h1>Reporting</h1>
