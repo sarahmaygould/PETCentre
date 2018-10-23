@@ -84,6 +84,7 @@
 
 .subnav:hover .subnav-content {
   display: block;
+  z-index: 0;
 }
 
 @media screen and (max-width: 750px) {
