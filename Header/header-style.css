@@ -105,6 +105,7 @@
   .subnav-content {
     width: 100%;
     position: relative;
+    display: none;
   }
 
   .subnav-content a {
