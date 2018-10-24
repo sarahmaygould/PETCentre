@@ -31,6 +31,14 @@
         </div>
       </div>
 
+      <div id="menu-bar">
+        <div id="hamburger-container" onclick="change_hamburger(this)">
+          <div id="hbbar1"></div>
+          <div id="hbbar2"></div>
+          <div id="hbbar3"></div>
+        </div>
+      </div>
+
       <div class="navbar">
         <div class="subnav">
           <button class="subnavbtn">About Us</button>
@@ -99,6 +107,13 @@
       </div>
       <div class="page-end"></div>
     </div>
+
+    <script>
+      function change_hamburger(x) {
+        x.classList.toggle("change");
+      }
+    </script>
+
   </body>
 
 </html>

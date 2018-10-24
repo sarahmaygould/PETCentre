@@ -110,4 +110,35 @@
   .subnav-content a {
     text-align: center;
   }
+  #menu-bar {
+    display: flex;
+    background-color: #2B4295;
+    border: 2px solid black;
+    justify-content: flex-end;
+    padding: 0.5em;
+  }
+
+  #hamburger-container {
+    cursor: pointer;
+  }
+
+  #hbbar1, #hbbar2, #hbbar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #64ac44;
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+
+  .change #hbbar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+  }
+
+  .change #hbbar2 {opacity: 0;}
+
+  .change #hbbar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+  }
 }
