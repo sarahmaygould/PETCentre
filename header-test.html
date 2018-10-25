@@ -32,7 +32,7 @@
       </div>
 
       <div id="menu-bar">
-        <div id="hamburger-container" onclick="change_hamburger(this); toggle_menu();">
+        <div id="hamburger-container" onclick="change_hamburger(this); remove_hover(); toggle_menu();">
           <div id="hbbar1"></div>
           <div id="hbbar2"></div>
           <div id="hbbar3"></div>
@@ -40,8 +40,8 @@
       </div>
 
       <div id="nav-container">
-        <div class="navbar">
-          <div class="subnav">
+        <div class="navbar" id="navbar">
+          <div class="subnav subnav-hover">
             <button class="subnavbtn">About Us</button>
             <div class="subnav-content">
               <a href="../AboutUs_WhatWeDo/what_we_do.php">What We Do</a>
@@ -49,7 +49,7 @@
               <a href="../AboutUs_OtherStaff/other_staff.php">Other Staff Members</a>
             </div>
           </div>
-          <div class="subnav">
+          <div class="subnav subnav-hover">
             <button class="subnavbtn">For Patients</button>
             <div class="subnav-content">
               <a href="../ForPatients_YourVisit/your_visit.php">Your Visit</a>
@@ -58,7 +58,7 @@
             </div>
           </div>
           <a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>
-          <div class="subnav">
+          <div class="subnav subnav-hover">
             <button class="subnavbtn">For Researchers</button>
             <div class="subnav-content">
               <a href="../ForResearchers_Overview/overview.php">Overview</a>
@@ -135,6 +135,21 @@
         x.style.display = "none";
       } else {
         x.style.display = "block";
+      }
+    }
+
+    function remove_hover() {
+      document.getElementById("demo").innerHTML = "yes";
+      var child_list = document.getElementById("navbar").childNodes;
+      child_list = Array.from(child_list);
+      var child;
+      var i;
+      for (i=1; i < child_list.length; i++){
+        if (child_list[i].classList != null) {
+          if (child_list[i].classList.contains("subnav-hover")) {
+            child_list[i].classList.remove("subnav-hover");
+          }
+        }
       }
     }
 

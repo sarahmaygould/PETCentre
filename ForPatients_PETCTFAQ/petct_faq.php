@@ -50,7 +50,6 @@
 				<p>
 					You will be asked not to eat and to drink plain water only. Please check your appointment letter carefully as it
 					contains important information about not eating before your scan. Please note that that you do <b>not</b> need to keep a full bladder.
-					If you have diabetes, please contact us on 020 7188 4988 for further information.
 				</p>
 				<p>
 					If you have diabetes, please contact us on 020 7188 4988 for further information.

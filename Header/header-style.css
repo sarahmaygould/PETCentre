@@ -82,7 +82,7 @@
   background-color: #64ac44;
 }
 
-.subnav:hover .subnav-content {
+.subnav-hover:hover .subnav-content {
   display: block;
 }
 
