@@ -146,7 +146,6 @@
     }
 
     function remove_hover() { // stops subnavs appearing on hover
-      console.log("ran");
       if (window.matchMedia("(max-width: 750px)").matches) {
         var child_list = document.getElementById("navbar").childNodes;
         child_list = Array.from(child_list);
@@ -156,6 +155,19 @@
           if (child_list[i].classList != null) {
             if (child_list[i].classList.contains("subnav-hover")) {
               child_list[i].classList.remove("subnav-hover");
+            }
+          }
+        }
+      } else {
+        console.log("run");
+        var child_list = document.getElementById("navbar").childNodes;
+        child_list = Array.from(child_list);
+        var child;
+        var i;
+        for (i=1; i < child_list.length; i++){
+          if (child_list[i].classList != null) {
+            if (child_list[i].classList.contains("subnav")) {
+              child_list[i].classList.add("subnav-hover");
             }
           }
         }
