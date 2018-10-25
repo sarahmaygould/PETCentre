@@ -111,18 +111,32 @@
     </div>
 
     <script>
-      function change_hamburger(x) {
-        x.classList.toggle("change");
-      }
+    var acc = document.getElementsByClassName("subnavbtn");
+    var i;
 
-      function toggle_menu() {
-        var x = document.getElementById("nav-container");
-        if (x.style.display === "block") {
-          x.style.display = "none";
-        } else {
-          x.style.display = "block";
-        }
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+            var panel = this.nextElementSibling;
+            if (panel.style.display === "block") {
+                panel.style.display = "none";
+            } else {
+                panel.style.display = "block";
+            }
+        });
+    }
+
+    function change_hamburger(x) {
+      x.classList.toggle("change");
+    }
+
+    function toggle_menu() {
+      var x = document.getElementById("nav-container");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
       }
+    }
 
     </script>
 
