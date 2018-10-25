@@ -32,7 +32,7 @@
       </div>
 
       <div id="menu-bar">
-        <div id="hamburger-container" onclick="change_hamburger(this); remove_hover(); toggle_menu();">
+        <div id="hamburger-container" onclick="change_hamburger(this); toggle_menu();">
           <div id="hbbar1"></div>
           <div id="hbbar2"></div>
           <div id="hbbar3"></div>
@@ -115,21 +115,28 @@
     var i;
 
     for (i = 0; i < acc.length; i++) {
-        acc[i].addEventListener("click", function() {
-            var panel = this.nextElementSibling;
-            if (panel.style.display === "block") {
-                panel.style.display = "none";
-            } else {
-                panel.style.display = "block";
-            }
-        });
+      acc[i].addEventListener("click", function() {
+        if (window.matchMedia("(max-width: 750px)").matches) {
+          this.classList.toggle("selected_button");
+          var panel = this.nextElementSibling;
+          if (panel.style.display === "block") {
+            panel.style.display = "none";
+          } else {
+            panel.style.display = "block";
+          }
+        }
+      });
     }
 
-    function change_hamburger(x) {
+    window.addEventListener("resize", function() {
+      remove_hover();
+    });
+
+    function change_hamburger(x) { //moves hamburger into cross
       x.classList.toggle("change");
     }
 
-    function toggle_menu() {
+    function toggle_menu() { //shows and hides navbar
       var x = document.getElementById("nav-container");
       if (x.style.display === "block") {
         x.style.display = "none";
@@ -138,20 +145,24 @@
       }
     }
 
-    function remove_hover() {
-      document.getElementById("demo").innerHTML = "yes";
-      var child_list = document.getElementById("navbar").childNodes;
-      child_list = Array.from(child_list);
-      var child;
-      var i;
-      for (i=1; i < child_list.length; i++){
-        if (child_list[i].classList != null) {
-          if (child_list[i].classList.contains("subnav-hover")) {
-            child_list[i].classList.remove("subnav-hover");
+    function remove_hover() { // stops subnavs appearing on hover
+      console.log("ran");
+      if (window.matchMedia("(max-width: 750px)").matches) {
+        var child_list = document.getElementById("navbar").childNodes;
+        child_list = Array.from(child_list);
+        var child;
+        var i;
+        for (i=1; i < child_list.length; i++){
+          if (child_list[i].classList != null) {
+            if (child_list[i].classList.contains("subnav-hover")) {
+              child_list[i].classList.remove("subnav-hover");
+            }
           }
         }
       }
     }
+
+    window.onload = remove_hover;
 
     </script>
 
