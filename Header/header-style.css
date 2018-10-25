@@ -142,3 +142,7 @@
     transform: rotate(45deg) translate(-8px, -8px);
   }
 }
+
+#nav-container {
+  display: none;
+}
