@@ -15,34 +15,60 @@
   </div>
 </div>
 
-<div class="navbar">
-  <div class="subnav">
-    <button class="subnavbtn">About Us</button>
-    <div class="subnav-content">
-      <a href="../AboutUs_WhatWeDo/what_we_do.php">What We Do</a>
-      <a href="../AboutUs_ClinicalManagementTeam/clinical_management.php">Clinical and Management Team</a>
-      <a href="../AboutUs_OtherStaff/other_staff.php">Other Staff Members</a>
-    </div>
+<div id="menu-bar">
+  <div id="hamburger-container" onclick="change_hamburger(this); toggle_menu();">
+    <div id="hbbar1"></div>
+    <div id="hbbar2"></div>
+    <div id="hbbar3"></div>
   </div>
-  <div class="subnav">
-    <button class="subnavbtn">For Patients</button>
-    <div class="subnav-content">
-      <a href="../ForPatients_YourVisit/your_visit.php">Your Visit</a>
-      <a href="../ForPatients_PETCTFAQ/petct_faq.php">FAQs for PET-CT</a>
-      <a href="../ForPatients_PETMRFAQ/petmr_faq.php">FAQs for PET-MR</a>
-    </div>
-  </div>
-  <a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>
-  <div class="subnav">
-    <button class="subnavbtn">For Researchers</button>
-    <div class="subnav-content">
-      <a href="../ForResearchers_Overview/overview.php">Overview</a>
-      <a href="../ForResearchers_SetUp/set_up.php">Setting Up a Study</a>
-      <a href="../ForResearchers_CurrentStudies/current_studies.php">Current Studies</a>
-    </div>
-  </div>
-  <a href="../CaseOfTheMonth/case_of_the_month.php">Case of the Month</a>
-  <a href="../Courses/courses.php">Courses</a>
-  <a href="../News/news.php">News</a>
-  <a href="../ContactUs/contact_us.php">Contact Us</a>
 </div>
+
+<div id="nav-container">
+  <div class="navbar">
+    <div class="subnav">
+      <button class="subnavbtn">About Us</button>
+      <div class="subnav-content">
+        <a href="../AboutUs_WhatWeDo/what_we_do.php">What We Do</a>
+        <a href="../AboutUs_ClinicalManagementTeam/clinical_management.php">Clinical and Management Team</a>
+        <a href="../AboutUs_OtherStaff/other_staff.php">Other Staff Members</a>
+      </div>
+    </div>
+    <div class="subnav">
+      <button class="subnavbtn">For Patients</button>
+      <div class="subnav-content">
+        <a href="../ForPatients_YourVisit/your_visit.php">Your Visit</a>
+        <a href="../ForPatients_PETCTFAQ/petct_faq.php">FAQs for PET-CT</a>
+        <a href="../ForPatients_PETMRFAQ/petmr_faq.php">FAQs for PET-MR</a>
+      </div>
+    </div>
+    <a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>
+    <div class="subnav">
+      <button class="subnavbtn">For Researchers</button>
+      <div class="subnav-content">
+        <a href="../ForResearchers_Overview/overview.php">Overview</a>
+        <a href="../ForResearchers_SetUp/set_up.php">Setting Up a Study</a>
+        <a href="../ForResearchers_CurrentStudies/current_studies.php">Current Studies</a>
+      </div>
+    </div>
+    <a href="../CaseOfTheMonth/case_of_the_month.php">Case of the Month</a>
+    <a href="../Courses/courses.php">Courses</a>
+    <a href="../News/news.php">News</a>
+    <a href="../ContactUs/contact_us.php">Contact Us</a>
+  </div>
+</div>
+
+<script>
+  function change_hamburger(x) {
+    x.classList.toggle("change");
+  }
+
+  function toggle_menu() {
+    var x = document.getElementById("nav-container");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
+
+</script>
