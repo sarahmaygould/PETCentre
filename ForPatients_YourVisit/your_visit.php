@@ -21,7 +21,7 @@
           Your Visit to the PET Centre
         </div>
 
-        <div class="LR-container">
+        <div class="LR-container" class="test-flex">
           <div class="RI-text">
             <p>
     					Our patient service is built upon more than 20 years' experience of clinical PET scanning. Staff at the PET Imaging Centre are all experts in their particular field and together provide a quality of service that we feel is second to none.

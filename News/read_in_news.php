@@ -11,7 +11,6 @@ else {
 $news_item_array = array_map('str_getcsv', file($path_to_news . "news_items.csv"));
 unset($news_item_array[0]);
 $start_loop = 1;
-$counter = 1;
 
 $display_tag = 3; // Index of News Page settings
 if ($page_name == "index.php") {
@@ -21,7 +20,6 @@ if ($page_name == "index.php") {
 foreach ($news_item_array as $news_item) {
   if ($news_item[$display_tag] == "TRUE") {
     if ($start_loop == 0) echo "<hr>";
-    if ($counter % 2 != 0) {
 ?>
     <div class="LR-container">
       <div class="LI-image">
@@ -32,18 +30,7 @@ foreach ($news_item_array as $news_item) {
         <?php echo $news_item[1]?>
       </div>
     </div>
-  <?php } else {
-    ?>
-    <div class="LR-container">
-      <div class="RI-text">
-        <h1><?php echo $news_item[0]?></h1>
-        <?php echo $news_item[1]?>
-      </div>
-      <div class="RI-image">
-        <img src="<?php echo $path_to_news . "images/" . $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="180">
-      </div>
-    </div>
-  <?php }
+  <?php
     $start_loop = 0;
     $counter++;
   }
