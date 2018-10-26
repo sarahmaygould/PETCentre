@@ -28,26 +28,26 @@
     <div class="subnav">
       <button class="subnavbtn">About Us</button>
       <div class="subnav-content">
-        <a href="../AboutUs_WhatWeDo/what_we_do.php">What We Do</a>
-        <a href="../AboutUs_ClinicalManagementTeam/clinical_management.php">Clinical and Management Team</a>
-        <a href="../AboutUs_OtherStaff/other_staff.php">Other Staff Members</a>
+        <a class="subnav-item" href="../AboutUs_WhatWeDo/what_we_do.php">What We Do</a>
+        <a class="subnav-item" href="../AboutUs_ClinicalManagementTeam/clinical_management.php">Clinical and Management Team</a>
+        <a class="subnav-item" href="../AboutUs_OtherStaff/other_staff.php">Other Staff Members</a>
       </div>
     </div>
     <div class="subnav">
       <button class="subnavbtn">For Patients</button>
       <div class="subnav-content">
-        <a href="../ForPatients_YourVisit/your_visit.php">Your Visit</a>
-        <a href="../ForPatients_PETCTFAQ/petct_faq.php">FAQs for PET-CT</a>
-        <a href="../ForPatients_PETMRFAQ/petmr_faq.php">FAQs for PET-MR</a>
+        <a class="subnav-item" href="../ForPatients_YourVisit/your_visit.php">Your Visit</a>
+        <a class="subnav-item" href="../ForPatients_PETCTFAQ/petct_faq.php">FAQs for PET-CT</a>
+        <a class="subnav-item" href="../ForPatients_PETMRFAQ/petmr_faq.php">FAQs for PET-MR</a>
       </div>
     </div>
     <a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>
     <div class="subnav">
       <button class="subnavbtn">For Researchers</button>
       <div class="subnav-content">
-        <a href="../ForResearchers_Overview/overview.php">Overview</a>
-        <a href="../ForResearchers_SetUp/set_up.php">Setting Up a Study</a>
-        <a href="../ForResearchers_CurrentStudies/current_studies.php">Current Studies</a>
+        <a class="subnav-item" href="../ForResearchers_Overview/overview.php">Overview</a>
+        <a class="subnav-item" href="../ForResearchers_SetUp/set_up.php">Setting Up a Study</a>
+        <a class="subnav-item" href="../ForResearchers_CurrentStudies/current_studies.php">Current Studies</a>
       </div>
     </div>
     <a href="../CaseOfTheMonth/case_of_the_month.php">Case of the Month</a>
@@ -58,11 +58,32 @@
 </div>
 
 <script>
-  function change_hamburger(x) {
+  var acc = document.getElementsByClassName("subnavbtn");
+  var i;
+
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      if (window.matchMedia("(max-width: 750px)").matches) {
+        this.classList.toggle("selected_button");
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+          panel.style.cssText = null;
+        } else {
+          panel.style.display = "block";
+        }
+      }
+    });
+  }
+
+  window.addEventListener("resize", function() {
+    remove_hover();
+  });
+
+  function change_hamburger(x) { //moves hamburger into cross
     x.classList.toggle("change");
   }
 
-  function toggle_menu() {
+  function toggle_menu() { //shows and hides navbar
     var x = document.getElementById("nav-container");
     if (x.style.display === "block") {
       x.style.display = "none";
@@ -70,5 +91,36 @@
       x.style.display = "block";
     }
   }
+
+  function remove_hover() { // stops subnavs appearing on hover
+    if (window.matchMedia("(max-width: 750px)").matches) {
+      var child_list = document.getElementById("navbar").childNodes;
+      child_list = Array.from(child_list);
+      var child;
+      var i;
+      for (i=1; i < child_list.length; i++){
+        if (child_list[i].classList != null) {
+          if (child_list[i].classList.contains("subnav-hover")) {
+            child_list[i].classList.remove("subnav-hover");
+          }
+        }
+      }
+    } else {
+      var child_list = document.getElementById("navbar").childNodes;
+      child_list = Array.from(child_list);
+      var child;
+      var i;
+      var j;
+      for (i=1; i < child_list.length; i++){
+        if (child_list[i].classList != null) {
+          if (child_list[i].classList.contains("subnav")) {
+            child_list[i].classList.add("subnav-hover");
+          }
+        }
+      }
+    }
+  }
+
+  window.onload = remove_hover;
 
 </script>
