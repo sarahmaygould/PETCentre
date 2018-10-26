@@ -86,23 +86,13 @@ li {
   margin: 10px;
 }
 
-@media screen and (max-width: 1000px) {
-  img {
-    width: 100%;
-  }
-
-  .LI-image, .RI-image, .index-image {
-    min-width: 25%;
-  }
-}
-
 @media screen and (max-width: 750px) {
   .LR-container {
     flex-direction: column;
   }
 
   .LI-image, .RI-image {
-    max-width: 80%;
+    height: 10%;
   }
 
   #second-homepage-image {
