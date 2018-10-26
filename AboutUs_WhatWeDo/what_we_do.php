@@ -40,7 +40,7 @@
 					The Centre runs regular training courses for physicians, radiologists, radiographers and scientists and, as part of the Medical School, contributes to undergraduate and postgraduate (MSc and PhD) teaching.
 				</p>
         <p>
-          <a href="./Courses/courses.php">Click here to find out more about our teaching activities.</a>
+          <a href="../Courses/courses.php">Click here to find out more about our teaching activities.</a>
         </p>
 
 				<h1>Research</a></h1>
@@ -48,7 +48,7 @@
 					The Centre is active in many areas of research, including the development and evaluation of new tracers, the development and assessment of new clinical PET indications, coordination of national and international cancer trials using PET-CT imaging and new PET technology and data analysis methods. Medical and scientific staff make regular contributions at major international conferences and to leading journals on imaging related topics.
 				</p>
         <p>
-          <a href="./Researchers/researchers.php">Click here to find out more about our research activities.</a>
+          <a href="../Researchers/researchers.php">Click here to find out more about our research activities.</a>
         </p>
 
         <div class="LR-container">
