@@ -80,7 +80,7 @@
             </tr>
             <tr>
               <td class="staff-table-name">Sofia Pereira</td>
-              <td class="staff-table-title">Senior Imaging Technologist</td>
+              <td class="staff-table-title">Cross Site Senior PET Imaging Technologist</td>
             </tr>
             <tr>
               <td class="staff-table-name">Nuno Martins</td>
@@ -91,7 +91,7 @@
               <td class="staff-table-title">PET Radiographer</td>
             </tr>
             <tr>
-              <td class="staff-table-name">Purnima Kini</td>
+              <td class="staff-table-name">Eva Rodr&iacute;guez D&iacute;az</td>
               <td class="staff-table-title">Imaging Technologist</td>
             </tr>
             <tr>

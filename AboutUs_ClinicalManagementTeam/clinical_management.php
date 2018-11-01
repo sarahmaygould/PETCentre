@@ -261,8 +261,8 @@
   					<li> Dr A Corrigan</li>
   					<li> Dr A Eccles </li>
   					<li> Dr C Fowler </li>
-  					<li> Dr A Mallia </li>
-  					<li> Dr D Murphy </li>
+  					<li> Dr S Kamat </li>
+  					<li> Dr K Courtney </li>
   				</ul>
         </div>
 
