@@ -17,7 +17,7 @@ foreach ($course_array as $course) {
           This course will next be held on <b><?php echo $course[5]?></b>.
         </p>
 
-        <?php if ($course[6] == "TRUE") { ?>
+        <?php if ($course[7] == "TRUE") { ?>
           <p>
             <a href="pet_technology_course.php" target="_blank">Click here for more information about this course.</a>
           </p>
