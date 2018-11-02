@@ -38,7 +38,7 @@
 
         <hr>
 
-        <?php include_once 'read_in_courses.php'; ?>
+        <?php include_once 'read_in_jobs.php'; ?>
 
       </div>
       <div class="page-end"></div>
