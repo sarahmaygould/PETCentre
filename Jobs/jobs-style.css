@@ -22,5 +22,6 @@
 }
 
 #no_vacancies_msg {
+  text-align: center;
   font-style: italic;
 }
