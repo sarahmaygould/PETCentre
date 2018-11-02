@@ -2,9 +2,11 @@
 $jobs_array = array_map('str_getcsv', file("jobs.csv"));
 unset($jobs_array[0]);
 
+$jobs_present = 0;
 foreach ($jobs_array as $job) {
   if ($job[4] == "TRUE") {
 ?>
+    <hr>
     <div>
       <table class="vacancy-table">
         <tr>
@@ -26,6 +28,6 @@ foreach ($jobs_array as $job) {
       </table>
     </div>
   <?php
-    echo "<hr>";
+    $jobs_present = 1;
   }
 } ?>
