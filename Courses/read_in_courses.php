@@ -16,6 +16,13 @@ foreach ($course_array as $course) {
         <p>
           This course will next be held on <b><?php echo $course[5]?></b>.
         </p>
+
+        <?php if ($course[6] == "TRUE") { ?>
+          <p>
+            <a href="pet_technology_course.php" target="_blank">Click here for more information about this course.</a>
+          </p>
+        <?php } ?>
+
         <p>
           <a href="<?php echo "documents/" . $course[3]?>" target="_blank">Click here to download the course flyer.</a>
         </p>
