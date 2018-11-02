@@ -33,6 +33,7 @@ foreach ($jobs_array as $job) {
 }
 
 if ($jobs_present == 0) { ?>
+  <hr>
   <div id="no_vacancies_msg">
     <p>
       There are no current vacancies. Please check back later.
