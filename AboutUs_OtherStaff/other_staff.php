@@ -21,7 +21,7 @@
           Other Staff Members
         </div>
 
-        <div class="staff-group-container">
+        <div>
           <table class="staff-group-table">
             <tr>
               <td class="staff-table-sectionhead"><h1>Administrative/Reception Team</h1></td>
@@ -56,7 +56,7 @@
 
         <hr>
 
-        <div class="staff-group-container">
+        <div>
           <table class="staff-group-table">
             <tr>
               <td class="staff-table-sectionhead"><h1>Imaging Technologists and Radiographers</h1></td>
@@ -103,7 +103,7 @@
 
         <hr>
 
-        <div class="staff-group-container">
+        <div>
           <table class="staff-group-table">
             <tr>
               <td class="staff-table-sectionhead"><h1>Clinical Scientist Team</h1></td>
@@ -143,7 +143,7 @@
 
         <hr>
 
-        <div class="staff-group-container">
+        <div>
           <table class="staff-group-table">
             <tr>
               <td class="staff-table-sectionhead"><h1>Radiochemistry Team</h1></td>

@@ -53,6 +53,7 @@
     <a href="../CaseOfTheMonth/case_of_the_month.php">Case of the Month</a>
     <a href="../Courses/courses.php">Courses</a>
     <a href="../News/news.php">News</a>
+    <a href="../Jobs/jobs.php">Jobs</a>
     <a href="../ContactUs/contact_us.php">Contact Us</a>
   </div>
 </div>
