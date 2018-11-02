@@ -1,7 +1,7 @@
 .vacancy-table {
   width: 100%;
   border-collapse: collapse;
-  padding: 1em 0;
+  margin: 2em 0;
 }
 
 .vacancy-table-left, .vacancy-table-right {
