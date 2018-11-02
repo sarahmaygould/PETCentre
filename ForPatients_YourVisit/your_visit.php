@@ -59,8 +59,10 @@
           All patients who visit the PET Centre are encouraged to leave feedback to help us improve the service we provide.
         </p>
         <p>
-          <a href="documents/PatientSatisfactionSurvey.pdf">Click here to download the results of the most recent Patient Satisfaction Survey.</a>
+          Click on the links below to download the results of our most recent Patient Satisfaction Surveys.
         </p>
+
+        <?php include_once 'read_in_pss.php'; ?>
 
         <hr>
 
