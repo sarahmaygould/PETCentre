@@ -239,6 +239,24 @@
 
         <div class="LR-container">
           <div class="LI-image">
+            <img src="images/Malene_Fischer.jpg" alt="Malene Fischer" width="140">
+          </div>
+          <div class="LI-text staff-section">
+            <h1>Dr Malene Fischer</h1>
+            <h2>Senior Clinical Lecturer and Consultant in Nuclear Medicine</h2>
+            <p>
+              Interests include a multi-modality imaging approach to the non-invasive study of myocardial perfusion under physiological conditions and disease, and the evaluation of myopathic processes of the heart with PET-CT and PET-MRI imaging.
+            </p>
+            <p>
+              <a href="https://kclpure.kcl.ac.uk/portal/Malene.fischer.html">Research Profile</a>
+            </p>
+          </div>
+        </div>
+
+        <hr>
+
+        <div class="LR-container">
+          <div class="LI-image">
             <img src="images/Joemon_John.jpg" alt="Joemon John" width="140">
           </div>
           <div class="LI-text staff-section">
