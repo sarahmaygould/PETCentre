@@ -36,8 +36,6 @@
           </div>
         </div>
 
-        <hr>
-
         <?php include_once 'read_in_jobs.php'; ?>
 
       </div>

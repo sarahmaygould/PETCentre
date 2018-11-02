@@ -20,3 +20,7 @@
   text-align: left;
   width: 50%;
 }
+
+#no_vacancies_msg {
+  font-style: italic;
+}

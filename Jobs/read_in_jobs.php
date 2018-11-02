@@ -30,4 +30,12 @@ foreach ($jobs_array as $job) {
   <?php
     $jobs_present = 1;
   }
-} ?>
+}
+
+if ($jobs_present == 0) { ?>
+  <div id="no_vacancies_msg">
+    <p>
+      There are no current vacancies. Please check back later.
+    </p>
+  </div>
+<?php } ?>
