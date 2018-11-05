@@ -245,6 +245,9 @@
             <h1>Dr Malene Fischer</h1>
             <h2>Senior Clinical Lecturer and Consultant in Nuclear Medicine</h2>
             <p>
+              Dr. Fischer has been doing research in the field of PET/CT and oncology since 2001. The common thread of her research is the exploration and implementation of functional imaging in diagnosing and treatment of patients with cancer including image guided radiotherapy planning.
+            </p>
+            <p>
               <a href="https://kclpure.kcl.ac.uk/portal/Malene.fischer.html">Research Profile</a>
             </p>
           </div>
