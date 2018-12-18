@@ -6,7 +6,7 @@ foreach ($course_array as $course) {
   if ($course[6] == "TRUE") {
 
     //$course_date = strptime($course[5], '%d/%m/%Y');
-    $course_date = date_create_from_format(j/m/Y, $course[5]);
+    $course_date = date_create_from_format('j/m/Y', $course[5]);
     echo date_format($course_date, 'Y-m-d');
     var_dump($course_date);
 ?>
