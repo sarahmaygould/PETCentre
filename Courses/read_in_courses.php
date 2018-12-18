@@ -6,7 +6,7 @@ foreach ($course_array as $course) {
   if ($course[6] == "TRUE") {
 
     $course_date = strptime($course[5], '%d/%m/%Y');
-    var_dump($course_date);
+    var_dump(strtotime($course_date);
 ?>
     <div class="LR-container">
       <div class="LI-image">
@@ -17,7 +17,7 @@ foreach ($course_array as $course) {
         <?php echo $course[1]?>
 
         <p>
-          This course will next be held on <b><?php echo date('d-F-Y', strtotime($course_date)?></b>.
+          This course will next be held on <b><?php echo date('d-F-Y', strtotime($course_date))?></b>.
         </p>
 
         <?php if ($course[7] == "TRUE") { ?>
