@@ -4,8 +4,10 @@ unset($course_array[0]);
 
 foreach ($course_array as $course) {
   if ($course[6] == "TRUE") {
-    $course_date = strtotime('dd "/" mm "/" YY',$course[5])
-    console.log($course_date)
+
+    //$course_date = strtotime('dd "/" mm "/" YY',$course[5])
+    $course_date = $course[5];
+    console.log($course_date);
 ?>
     <div class="LR-container">
       <div class="LI-image">
