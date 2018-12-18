@@ -7,9 +7,6 @@ foreach ($course_array as $course) {
 
     $course_date = date_create_from_format('d/m/Y', $course[5]);
     $today = new DateTime("now");
-    var_dump($course_date);
-    var_dump($today);
-    var_dump($course_date > $today);
 ?>
     <div class="LR-container">
       <div class="LI-image">
@@ -29,13 +26,17 @@ foreach ($course_array as $course) {
               <a href="pet_technology_course.php" target="_blank">Click here for more information about this course.</a>
             </p>
           <?php } ?>
-          <p>
-            <a href="<?php echo "documents/" . $course[3]?>" target="_blank">Click here to download the course flyer.</a>
-          </p>
-          <p>
-            <a href="<?php echo $course[4]?>" target="_blank">Click here for more information and to apply.</a>
-          </p>
-        <?php } ?>
+            <p>
+              <a href="<?php echo "documents/" . $course[3]?>" target="_blank">Click here to download the course flyer.</a>
+            </p>
+            <p>
+              <a href="<?php echo $course[4]?>" target="_blank">Click here for more information and to apply.</a>
+            </p>
+          <?php } else { ?>
+            <p>
+              This course is usually held in <?php echo $course[8] ?>. Please check back later for details of how to book.
+            </p>
+          <?php } ?>
       </div>
     </div>
   <?php
