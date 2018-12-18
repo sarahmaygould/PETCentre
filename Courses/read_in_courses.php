@@ -19,7 +19,7 @@ foreach ($course_array as $course) {
         <?php echo $course[1]?>
 
         <p>
-          This course will next be held on <b><?php echo date_format($course_date, 'dS M Y')?></b>.
+          This course will next be held on <b><?php echo date_format($course_date, 'jS F Y')?></b>.
         </p>
 
         <?php if ($course[7] == "TRUE") { ?>
