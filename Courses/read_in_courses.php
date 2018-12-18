@@ -5,7 +5,7 @@ unset($course_array[0]);
 foreach ($course_array as $course) {
   if ($course[6] == "TRUE") {
 
-    $course_date = strtotime('dd "/" mm "/" YY',$course[5]);
+    $course_date = strptime($course[5], '%d/%m/%Y');
     //$course_date = $course[5];
     var_dump($course_date);
 ?>
