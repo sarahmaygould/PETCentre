@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" href="../favicon.ico">
     <link rel="stylesheet" type="text/css" href="../Header/header-style.css">
     <link rel="stylesheet" type="text/css" href="../common-style.css">
     <title>The PET Centre</title>
@@ -28,7 +28,7 @@
         <hr>
 
         <h1>Current Neurology Projects</h1>
-        <p>Tracers currently used in our neurology studies include: [<sup>18</sup>F]Fallypride, [<sup>18</sup>F]Florbetapir, [<sup>18</sup>F]Florbetaben, [<sup>18</sup>F] DPA-714, GE179.</p>
+        <p>Tracers currently used in our neurology studies include: [<sup>18</sup>F]fallypride, [<sup>18</sup>F]florbetapir, [<sup>18</sup>F]florbetaben, [<sup>18</sup>F]DPA-714, [<sup>18</sup>F]GE-179.</p>
         <ul>
           <li>Tracking myelin changes in vivo with <sup>18</sup>F-florbetapen PET and MRI in patients with Multiple Sclerosis. A Proof of concept Pilot study</li>
           <li>A phase III, randomized, placebo-controlled, parallel-group, double blind clinical trial to study the efficacy and safety of MK-8931 (SCH 900931) in subjects with amnestic Mild Cognitive Impairment due to Alzheimer's Disease (prodromal AD).</li>
@@ -42,7 +42,7 @@
         <hr>
 
         <h1>Current Oncology Projects</h1>
-        <p>Tracers currently used in our oncology studies include: [<sup>18</sup>F]FDG, [<sup>18</sup>F]Fluoride, [<sup>18</sup>F]Choline, [<sup>18</sup>F]MISO, [<sup>68</sup>Ga]PSMA, [<sup>18</sup>F]Fluciclovine</p>
+        <p>Tracers currently used in our oncology studies include: [<sup>18</sup>F]FDG, [<sup>18</sup>F]fluoride, [<sup>18</sup>F]choline, [<sup>18</sup>F]MISO, [<sup>68</sup>Ga]PSMA, [<sup>18</sup>F]fluciclovine</p>
         <ul>
           <li>A Phase 1 Study of LY3039478 in Patients with Advanced or Metastatic Cancer (NOTCH)</li>
           <li>MRI assessment of hypoxia and perfusion in primary colorectal cancer: Correlation with imaging and immunohistochemical markers of hypoxia (MATCH)</li>
@@ -55,7 +55,7 @@
           <li>A Phase 1 Adaptive Dose-Escalation Study to Evaluate the Tolerability, Safety, Pharmacokinetics, and Antitumor Activity of ADCT-301 in Patients with Relapsed or Refractory Hodgkin Lymphoma and Non-Hodgkin Lymphoma ADCT-301-001A</li>
           <li>Phase 2, Open-Label, Monotherapy, Multicenter Study to Evaluate the Efficacy and Safety of INCB054828 in Subjects With Myeloid/Lymphoid Neoplasms With FGFR1 Rearrangement - INCYTE HANK </li>
           <li>TIDaL - Risk-stratified sequential Treatment with Ibrutinib and Rituximab (IR) and IR-CHOP for De-novo post-transplant Lymphoproliferative disorder (PTLD)</li>
-          <li>Histological correlation for textural features of PET &ceCT in NSCLC - FALCON</li>
+          <li>Histological correlation for textural features of PET & CT in NSCLC - FALCON</li>
           <li>First international Inter-Group Study for nodular lymphocyte predominant Hodgkin`s Lymphoma in Children and Adolescents EuroNet-PHL-LP1</li>
           <li>Functional Imaging for Response evaluation assessment in rectal cancer.</li>
           <li>Evaluation of treatment response and resistance in metastatic renal cell cancer (mRCC) using integrated <sup>18</sup>F-Fluorodeoxyglucose (<sup>18</sup>F-FDG) positron emission tomography/magneticresonance imaging (PET/MRI): The REMAP study</li>

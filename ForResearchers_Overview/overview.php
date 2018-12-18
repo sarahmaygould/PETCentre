@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" href="../favicon.ico">
     <link rel="stylesheet" type="text/css" href="../Header/header-style.css">
     <link rel="stylesheet" type="text/css" href="../common-style.css">
     <title>The PET Centre</title>
@@ -27,7 +27,7 @@
           <div class="LI-text">
             <h1>Overview</h1>
     				<p>
-    					The PET Centre consists of a multidisciplinary team of about 35 staff, including clinical academics, nuclear medicine physicians, radiologists, neurologists, scientists, physicists, radiochemists, technologists and radiographers with administrative support for the clinical service and research programmes.
+    					The PET Centre consists of a multidisciplinary team of about 60 staff, including clinical academics, nuclear medicine physicians, radiologists, neurologists, scientists, physicists, radiochemists, technologists and radiographers with administrative support for the clinical service and research programmes.
     				</p>
      				<p>
               Active areas of research include the development and evaluation of new tracers, the development and assessment of new clinical PET indications, co-ordination of national cancer trials using PET-CT imaging and new PET technology and data analysis methods. Research spans oncology, neurology, neuropsychiatry and cardiology.

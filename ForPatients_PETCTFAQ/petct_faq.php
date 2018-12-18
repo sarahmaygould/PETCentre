@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" href="../favicon.ico">
     <link rel="stylesheet" type="text/css" href="../Header/header-style.css">
     <link rel="stylesheet" type="text/css" href="../common-style.css">
     <title>The PET Centre</title>
@@ -35,6 +35,8 @@
 					PET-CT &#40;positron emission tomography coupled with computed tomography&#41;, is a safe and easy scanning method. It shows us how the tissues in the body are functioning and helps us to identify organs or tissues that are not working normally. With PET-CT, we inject a tracer &#40;often a weak radioactive form of sugar&#41; then scan the body. The tracer shows up on the scan. Using this method we can get important information about many conditions affecting different organs of the body, which will help your doctor to plan appropriate treatment for you.
 				</p>
 
+        <hr>
+
 				<h1>Do I need to confirm my appointment?</h1>
 				<p>
 					Yes. It is very important that you call us to confirm your appointment. It is also important that you allow plenty of time to get to the PET Centre, as scans generally cannot be delayed.
@@ -54,6 +56,8 @@
 				<p>
 					If you have diabetes, please contact us on 020 7188 4988 for further information.
 				</p>
+
+        <hr>
 
 				<h1>How long will the scan take?</h1>
 				<p>
@@ -96,7 +100,6 @@
 
         <hr>
 
-
 				<h1>Can I bring something to pass the time?</h1>
 				<p>
 					You will be able to read or listen to music while you are relaxing quietly before your scan &#40; unless you are having a brain scan &#41;. Once you are in the scanner we can play music for you via the internet.
@@ -104,6 +107,16 @@
 				<p>
 					Please note that, for your safety, we have CCTV monitoring in the patient areas as staff cannot be present at all times in all areas.
 				</p>
+
+        <hr>
+
+        <h1>What happens after the scan?</h1>
+        <p>
+          As soon as the scan is finished, you can go home, or back to your ward if you are staying in the hospital. You can eat and drink as normal and resume your usual activities. We normally supply a sandwich to eat after the scan.
+        </p>
+        <p>
+          The pictures taken during the scan are carefully studied by the imaging doctor who will produce a detailed report.
+        </p>
 
         <hr>
 
