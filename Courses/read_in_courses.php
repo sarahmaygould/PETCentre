@@ -5,10 +5,11 @@ unset($course_array[0]);
 foreach ($course_array as $course) {
   if ($course[6] == "TRUE") {
 
-    //$course_date = strptime($course[5], '%d/%m/%Y');
     $course_date = date_create_from_format('d/m/Y', $course[5]);
-    echo date_format($course_date, 'Y-m-d');
+    $today = new DateTime("now");
     var_dump($course_date);
+    var_dump($today);
+    var_dump($course_date > $today);
 ?>
     <div class="LR-container">
       <div class="LI-image">
