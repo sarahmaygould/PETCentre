@@ -6,7 +6,7 @@ foreach ($course_array as $course) {
   if ($course[6] == "TRUE") {
 
     $course_date = strptime($course[5], '%d/%m/%Y');
-    var_dump(strtotime($course_date);
+    var_dump(strtotime($course_date));
 ?>
     <div class="LR-container">
       <div class="LI-image">
