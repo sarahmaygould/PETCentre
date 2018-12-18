@@ -42,7 +42,7 @@
         <hr>
 
         <h1>Current Oncology Projects</h1>
-        <p>Tracers currently used in our oncology studies include: [<sup>18</sup>F]FDG, [<sup>18</sup>F]fluoride, [<sup>18</sup>F]choline, [<sup>18</sup>F]MISO, [<sup>68</sup>Ga]PSMA, [<sup>18</sup>F]fluciclovine</p>
+        <p>Tracers currently used in our oncology studies include: [<sup>18</sup>F]FDG, [<sup>18</sup>F]fluoride, [<sup>18</sup>F]choline, [<sup>18</sup>F]MISO, [<sup>68</sup>Ga]PSMA, [<sup>18</sup>F]fluciclovine</p>.
         <ul>
           <li>A Phase 1 Study of LY3039478 in Patients with Advanced or Metastatic Cancer (NOTCH)</li>
           <li>MRI assessment of hypoxia and perfusion in primary colorectal cancer: Correlation with imaging and immunohistochemical markers of hypoxia (MATCH)</li>
