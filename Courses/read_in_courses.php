@@ -17,7 +17,7 @@ foreach ($course_array as $course) {
         <?php echo $course[1]?>
 
         <p>
-          This course will next be held on <b><?php echo date($course_date)?></b>.
+          This course will next be held on <b><?php echo date('d-F-Y', strtotime($course_date)?></b>.
         </p>
 
         <?php if ($course[7] == "TRUE") { ?>
