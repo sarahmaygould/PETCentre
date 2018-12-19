@@ -34,7 +34,7 @@ foreach ($course_array as $course) {
             </p>
           <?php } else { ?>
             <p>
-              This course is usually held in <?php echo $course[8] ?>. Please check back later for details of how to book.
+              This course is usually held in <?php echo $course[8] ?>. Please check back later for details of how to apply.
             </p>
           <?php } ?>
       </div>
