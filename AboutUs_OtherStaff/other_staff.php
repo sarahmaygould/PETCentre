@@ -2,13 +2,10 @@
 <html>
 
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="../favicon.ico">
+    <?php include_once '..head.php'; ?>
     <link rel="stylesheet" type="text/css" href="../Header/header-style.css">
     <link rel="stylesheet" type="text/css" href="../common-style.css">
     <link rel="stylesheet" type="text/css" href="other_staff-style.css">
-    <title>The PET Centre</title>
   </head>
 
   <body>
