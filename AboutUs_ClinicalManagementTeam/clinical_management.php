@@ -276,7 +276,6 @@
   					<li> Dr D Dasgupta</li>
   					<li> Dr F Ul-Hassan</li>
   					<li> Dr Z Viney</li>
-  					<li> Dr A Corrigan</li>
   					<li> Dr A Eccles </li>
   					<li> Dr C Fowler </li>
   					<li> Dr S Kamat </li>

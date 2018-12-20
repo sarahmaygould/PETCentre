@@ -50,7 +50,7 @@
         <a class="subnav-item" href="../ForResearchers_CurrentStudies/current_studies.php">Current Studies</a>
       </div>
     </div>
-    <a href="../CaseOfTheMonth/case_of_the_month.php">Case of the Month</a>
+    <!-- <a href="../CaseOfTheMonth/case_of_the_month.php">Case of the Month</a> -->
     <a href="../Courses/courses.php">Courses</a>
     <a href="../News/news.php">News</a>
     <a href="../Jobs/jobs.php">Jobs</a>
