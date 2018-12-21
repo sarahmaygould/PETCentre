@@ -39,7 +39,7 @@
 					Yes. It is very important that you call us to confirm your appointment. It is also important that you allow plenty of time to get to the PET Centre, as scans generally cannot be delayed.
 				</p>
 				<p>
-					You must tell us in advance if you know you are pregnant &#40;or think that you may be &#41;, are breastfeeding, or are the
+					You must tell us in advance if you know you are pregnant &#40;or think that you may be&#41;, are breastfeeding, or are the
 					main carer of small children. We may need to give you additional information.
 				</p>
 
@@ -79,13 +79,10 @@
 
 				<h1>What will happen to me during the scan?</h1>
 				<p>
-					This will depend on the type of scan, and will be fully explained to you by our staff when you arrive. We will insert a small needle into a vein in your arm, hand, or occasionally foot &#40; if we cannot use an arm vein &#41;. We then inject the tracer. If you are having a brain or body scan we will ask you to relax quietly for 30 &#45; 90 minutes before we take you to the scanner room.
+					This will depend on the type of scan, and will be fully explained to you by our staff when you arrive. We will insert a small needle into a vein in your arm, hand, or occasionally foot &#40;if we cannot use an arm vein&#41;. We then inject the tracer. If you are having a brain or body scan we will ask you to relax quietly for 30 &#45; 90 minutes before we take you to the scanner room.
 				</p>
 				<p>
-					We will ask you to lie on the scanner bed where we will make you as comfortable as possible. You will need to keep very still during
-					the scan. It is important that you do not move, or the pictures could be blurred and the scan will have to
-					be repeated. Once you are positioned correctly, we will move you into the scanner. The scanner bed will then move gently
-					and slide into the centre of the scanner until the part of the body to be scanned is correctly positioned.
+					We will ask you to lie on the scanner bed where we will make you as comfortable as possible. You will need to keep very still during the scan. It is important that you do not move, or the pictures could be blurred and the scan will have to be repeated. Once you are positioned correctly, we will move you into the scanner. The scanner bed will then move gently and slide into the centre of the scanner until the part of the body to be scanned is correctly positioned.
 				</p>
 
         <hr>
@@ -99,7 +96,7 @@
 
 				<h1>Can I bring something to pass the time?</h1>
 				<p>
-					You will be able to read or listen to music while you are relaxing quietly before your scan &#40; unless you are having a brain scan &#41;. Once you are in the scanner we can play music for you via the internet.
+					You will be able to read or listen to music while you are relaxing quietly before your scan &#40;unless you are having a brain scan&#41;. Once you are in the scanner we can play music for you via the internet.
 				</p>
 				<p>
 					Please note that, for your safety, we have CCTV monitoring in the patient areas as staff cannot be present at all times in all areas.

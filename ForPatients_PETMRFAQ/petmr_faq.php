@@ -141,7 +141,7 @@
           Before the scan, you will be given the opportunity to ask the radiographer/technologist any questions you have. We will take a short medical history from you and make sure you understand why you are having the scan and what the scan involves.  A needle will be put into your hand or arm and then you will be taken to lie down on a couch where the radioactive injection will be given.  You will then lie quietly on the couch for up to 90 minutes and then be taken to the scanner.
         </p>
         <p>
-          We will ask you to lie on the scanner bed where you will be made as comfortable as possible. If you are not comfortable, please tell us, as you will need to keep very still during the scan. It is important that you do not move, or the pictures could be blurred and the scan will have to be repeated. Once you are positioned correctly, we will move you into the scanner â€“ the part of your body that we are scanning must be in the centre of the machine. For scans of the chest or abdomen, you may be asked to hold your breath for a short while.
+          We will ask you to lie on the scanner bed where you will be made as comfortable as possible. If you are not comfortable, please tell us, as you will need to keep very still during the scan. It is important that you do not move, or the pictures could be blurred and the scan will have to be repeated. Once you are positioned correctly, we will move you into the scanner &#45; the part of your body that we are scanning must be in the centre of the machine. For scans of the chest or abdomen, you may be asked to hold your breath for a short while.
         </p>
         <p>
           When the scanner is working, it makes a loud banging noise. We will give you headphones to wear to reduce the noise. If we are not scanning your brain you can listen to music while you are being scanned so please bring in a CD of your choice! You will also be given a buzzer to press if you need to attract our attention during your scan.
@@ -185,7 +185,7 @@
           The pictures taken during the scan are carefully studied by the imaging doctor who will produce a detailed report.
         </p>
         <p>
-          If you had the injection of contrast dye (not the radioactive tracer), an allergic reaction can very rarely occur up to two days after the scan (please read Will I need an injection? section for allergic reactions to look out for). If this happens, please contact the PET centre where you had your scan for advice. Alternatively, if it is out of hours, contact your local Accident and Emergency (A&amp;E) department.
+          If you had the injection of contrast dye (not the radioactive tracer), an allergic reaction can very rarely occur up to two days after the scan (please read the <i>Will I need an injection?</i> section above for allergic reactions to look out for). If this happens, please contact the PET centre where you had your scan for advice. Alternatively, if it is out of hours, contact your local Accident and Emergency (A&amp;E) department.
         </p>
 
         <hr>
