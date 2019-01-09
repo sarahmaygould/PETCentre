@@ -1,0 +1,27 @@
+.vacancy-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em 0;
+}
+
+.vacancy-table-left, .vacancy-table-right {
+  padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.vacancy-table-left {
+  text-align: right;
+  font-weight: bold;
+  width: 10%;
+  border-right: 2px solid #f5f5f5;
+  vertical-align: top;
+}
+
+.vacancy-table-right {
+  text-align: left;
+  width: 50%;
+}
+
+#no_vacancies_msg {
+  text-align: center;
+  font-style: italic;
+}
