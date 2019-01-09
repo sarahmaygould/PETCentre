@@ -4,7 +4,7 @@ unset($jobs_array[0]);
 
 $jobs_present = 0;
 foreach ($jobs_array as $job) {
-  if ($job[4] == "TRUE") {
+  if ($job[5] == "TRUE") {
 ?>
     <hr>
     <div>
@@ -23,7 +23,11 @@ foreach ($jobs_array as $job) {
         </tr>
         <tr>
           <td class="vacancy-table-left">To Apply</td>
-          <td class="vacancy-table-right"><a href="<?php echo $job[3]?>" target="_blank">Click here.</a></td>
+          <?php if ($job[4] == "TRUE") { ?>
+            <td class="vacancy-table-right"><a href="<?php echo $job[3]?>" target="_blank">Click here.</a></td>
+          <?php } else { ?>
+            <td class="vacancy-table-right"><?php echo $job[3]?></td>
+          <?php } ?>
         </tr>
       </table>
     </div>
