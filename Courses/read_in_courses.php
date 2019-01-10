@@ -24,7 +24,7 @@ foreach ($course_array as $course) {
 
         <?php if ($course_date > $today) { ?>
           <p>
-            This course will next be held on <b><?php echo date_format($course_date, 'jS F Y')?></b>.
+            This course will next be held on the <b><?php echo date_format($course_date, 'jS F Y')?></b>.
           </p>
           <?php if ($course[9] == "TRUE") { ?>
             <p>
@@ -37,7 +37,7 @@ foreach ($course_array as $course) {
             <p>
               The booking for this course is not yet open but please email <a href="mailto:teachingadmin-imaging@kcl.ac.uk">teachingadmin-imaging@kcl.ac.uk</a> to be added to the course mailing list.
             </p>
-          <?php } ?>        
+          <?php } ?>
         <?php } else { ?>
           <p>
             This course is usually held in <?php echo $course[8] ?>. Please check back later for details of how to apply.
