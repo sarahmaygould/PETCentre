@@ -18,7 +18,7 @@
           Your Visit to the PET Centre
         </div>
 
-        <div class="LR-container" class="test-flex">
+        <div class="LR-container">
           <div class="RI-text">
             <p>
     					Our patient service is built upon more than 20 years' experience of clinical PET scanning. Staff at the PET Imaging Centre are all experts in their particular field and together provide a quality of service that we feel is second to none.
@@ -51,15 +51,24 @@
 
         <hr>
 
-        <h1>Patient Satisfaction Survey</h1>
-        <p>
-          All patients who visit the PET Centre are encouraged to leave feedback to help us improve the service we provide.
-        </p>
-        <p>
-          Click on the links below to download the results of our most recent Patient Satisfaction Surveys.
-        </p>
-
-        <?php include_once 'read_in_pss.php'; ?>
+        <div class="LR-container">
+          <div class="RI-text">
+            <h1>Patient Satisfaction Survey</h1>
+            <p>
+              All patients who visit the PET Centre are encouraged to leave feedback to help us improve the service we provide.
+            </p>
+            <p>
+              Click on the links below to download the results of our most recent Patient Satisfaction Surveys.
+            </p>
+            <?php include_once 'read_in_pss.php'; ?>
+          </div>
+          <div class="RI-image captioned-image">
+            <img src="images/Chocolates_small.jpg" alt="Chocolates" width="300">
+            <div class="caption-text">
+                It was lovely to receive this box of chocolates from the family of a recent patient.
+            </div>
+          </div>
+        </div>
 
         <hr>
 

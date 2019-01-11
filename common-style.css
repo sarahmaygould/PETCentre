@@ -69,6 +69,7 @@ li {
 .LR-container {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .LI-image {
@@ -84,6 +85,16 @@ li {
 
 .RI-image {
   margin: 10px;
+}
+
+.captioned-image {
+  width: 300px;
+}
+
+.caption-text {
+  font-size: 90%;
+  font-style: italic;
+  text-align: center;
 }
 
 @media screen and (max-width: 750px) {
