@@ -62,8 +62,8 @@
             </p>
             <?php include_once 'read_in_pss.php'; ?>
           </div>
-          <div class="RI-image captioned-image">
-            <img src="images/Chocolates_small.jpg" alt="Chocolates" width="300">
+          <div class="RI-image captioned-image-container">
+            <img class="captioned-image" src="images/Chocolates_small.jpg" alt="Chocolates" width="300">
             <div class="caption-text">
                 It was lovely to receive this box of chocolates from the family of a recent patient together with a thank-you card explaining how our service helped.
             </div>

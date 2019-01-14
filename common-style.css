@@ -87,8 +87,13 @@ li {
   margin: 10px;
 }
 
+.captioned-image-container {
+  width: 500px;
+}
+
 .captioned-image {
-  width: 300px;
+  display: block;
+  margin: auto auto 0.5em auto;
 }
 
 .caption-text {
