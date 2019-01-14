@@ -114,4 +114,8 @@ li {
   #second-homepage-image {
     display: none;
   }
+
+  .captioned-image-container {
+    width: auto;
+  }
 }
