@@ -65,7 +65,7 @@
           <div class="RI-image captioned-image">
             <img src="images/Chocolates_small.jpg" alt="Chocolates" width="300">
             <div class="caption-text">
-                It was lovely to receive this box of chocolates from the family of a recent patient.
+                It was lovely to receive this box of chocolates from the family of a recent patient together with a thank-you card explaining how our service helped.
             </div>
           </div>
         </div>
