@@ -116,14 +116,15 @@
 
 				<h1>Are there any risks?</h1>
 				<p>
-					PET-CT scans use a small amount of radiation to form images of your body and provide your doctor with clinical information on both the structure and function of your body. Any exposure to radiation carries a very small risk of potential tissue damage that could lead to cancer at a later date, but the doctor reviewing your case has decided that the potential benefits of the scan outweigh the small risk due to the radiation exposure.
+
+					PET-CT scans use a small amount of radiation to form images of your body and provide your doctor with clinical information on both the structure and function of your body. Every request we receive for a PET scan is individually assessed by a doctor with a specialist training in PET. In your case it has been decided that the potential benefits of the test outweigh the very small risks due to the radiation exposure.
 				</p>
 
         <hr>
 
 				<h1>How much radiation is the average person normally exposed to?</h1>
 				<p>
-					We are constantly exposed to radiation from a number of sources, including radioactive materials in our environment, radon gas in our homes, and cosmic rays from outer space. This is called background radiation and it varies depending on where you live. In the UK, the average person is exposed to about 2.2mSv (millisieverts) of background radiation from natural sources over 1 year.
+					We are constantly exposed to radiation from a number of sources, including radioactive materials in our environment, radon gas in our homes, and cosmic radiation from outer space. This is called background radiation and it varies depending on where you live. In the UK, the average person is exposed to about 2.2 mSv (millisieverts) of background radiation from natural sources over 1 year.
 				</p>
 
         <hr>
