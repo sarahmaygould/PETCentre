@@ -37,12 +37,16 @@
               <td class="staff-table-title">PET Centre Receptionist</td>
             </tr>
             <tr>
-              <td class="staff-table-name">Emma Sperring</td>
-              <td class="staff-table-title">Research Coordinator</td>
-            </tr>
-            <tr>
               <td class="staff-table-name">Simon Gallivan</td>
               <td class="staff-table-title">PET Centre Administrative Assistant</td>
+            </tr>
+            <tr>
+              <td class="staff-table-name">Latifat Agoro</td>
+              <td class="staff-table-title">PET Operations Officer</td>
+            </tr>
+            <tr>
+              <td class="staff-table-name">Emma Sperring</td>
+              <td class="staff-table-title">Research Coordinator</td>
             </tr>
             <tr>
               <td class="staff-table-name">Laura Zappulla</td>
