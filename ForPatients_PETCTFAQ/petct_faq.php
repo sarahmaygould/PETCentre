@@ -119,6 +119,9 @@
 
 					PET-CT scans use a small amount of radiation to form images of your body and provide your doctor with clinical information on both the structure and function of your body. Every request we receive for a PET scan is individually assessed by a doctor with a specialist training in PET. In your case it has been decided that the potential benefits of the test outweigh the very small risks due to the radiation exposure.
 				</p>
+        <p>
+          Ionising radiation can cause cell damage that may, after many years or decades, turn cancerous. The normal lifetime risk of developing cancer is 50%. Having this scan will increase the chances of this happening to you from 50% to 50.1%.
+        </p>
 
         <hr>
 
