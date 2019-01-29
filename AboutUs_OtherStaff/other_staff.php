@@ -99,6 +99,10 @@
               <td class="staff-table-name">Maryam Ahmed</td>
               <td class="staff-table-title">PET Radiographer</td>
             </tr>
+            <tr>
+              <td class="staff-table-name">Indre Vaitkute</td>
+              <td class="staff-table-title">PET Radiographer/Imaging Technologist</td>
+            </tr>
           </table>
         </div>
 
