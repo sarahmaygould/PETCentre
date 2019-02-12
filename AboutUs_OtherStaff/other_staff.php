@@ -135,11 +135,11 @@
               <td class="staff-table-title">Clinical Scientist</td>
             </tr>
             <tr>
-              <td class="staff-table-name">Carola Houpt</td>
-              <td class="staff-table-title">Medical Technologist</td>
+              <td class="staff-table-name">Georgios Krokos</td>
+              <td class="staff-table-title">Clinical Scientist</td>
             </tr>
             <tr>
-              <td class="staff-table-name">Georgios Krokos</td>
+              <td class="staff-table-name">Carola Houpt</td>
               <td class="staff-table-title">Medical Physicist</td>
             </tr>
 
