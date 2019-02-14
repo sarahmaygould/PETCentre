@@ -41,7 +41,10 @@
           For further information about the scanning procedure, please contact the Centre.
         </p>
         <p>
-          <a href="./documents/Referral_Form.pdf">Click here to download the referral form.</a> Once you have filled in all sections, press the Submit button within the form to attach the form to an email to us. <b>Please note that PET requests will only be accepted from UK based clinicians. The referrer is required to read and acknowledge the referrer's responsibilities under IR(ME)R 2017, as detailed on the referral form. </b>
+          <a href="./documents/Referral_Form.pdf">Click here to download the referral form.</a>
+        </p>
+        <p>
+          Once you have filled in all sections, press the Submit button within the form to attach the form to an email to us. <b>Please note that PET requests will only be accepted from UK based clinicians. The referrer is required to read and acknowledge the referrer's responsibilities under IR(ME)R 2017, as detailed on the referral form. </b>
         </p>
 
         <hr>
