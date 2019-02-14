@@ -44,7 +44,7 @@
           <a href="./documents/Referral_Form.pdf">Click here to download the referral form.</a>
         </p>
         <p>
-          Once you have filled in all sections, press the Submit button within the form to attach the form to an email to us. <b>Please note that PET requests will only be accepted from UK based clinicians. The referrer is required to read and acknowledge the referrer's responsibilities under IR(ME)R 2017, as detailed on the referral form. </b>
+          Once you have filled in all sections, press the Submit button within the form. This attaches the form to an email to us, which you must send to submit your referral. <b>Please note that PET requests will only be accepted from UK based clinicians. The referrer is required to read and acknowledge the referrer's responsibilities under IR(ME)R 2017, as detailed on the referral form. </b>
         </p>
 
         <hr>
