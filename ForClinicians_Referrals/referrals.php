@@ -35,7 +35,7 @@
           The administrative office for the Centre is also based at St Thomas' so please direct all referrals, enquiries and requests for reports to the St Thomas'office.
         </p>
         <p>
-          Patient appointments will be scheduled at the first available time, usually within 2 weeks for routine referrals or earlier if clinical need dictates. Patients appointments are generally confirmed in writing, along with an illustrated brochure describing the procedure. Scan visits take between 1-3 hours depending on the procedure and careful consideration is being given to patient comfort throughout using our new patient areas to full effect. The radiation dose received is very small due to the short half-life of the tracers, and roughly equal to that of a barium meal. The only contra-indication is pregnancy.
+          Patient appointments will be scheduled at the first available time, usually within 2 weeks for routine referrals or earlier if clinical need dictates. Appointments are generally confirmed in writing, along with an illustrated brochure describing the procedure. Scan visits take between 1-3 hours depending on the procedure and careful consideration is being given to patient comfort throughout using our new patient areas to full effect. The radiation dose received is very small due to the short half-life of the tracers, and roughly equal to that of a barium meal. The only contra-indication is pregnancy.
         </p>
         <p>
           For further information about the scanning procedure, please contact the Centre.
