@@ -24,7 +24,7 @@ foreach ($course_array as $course) {
 
         <?php if ($course_date > $today) { ?>
           <p>
-            This course will next be held on the <b><?php echo date_format($course_date, 'jS F Y')?></b>.
+            This course will next be held on&#47;from the <b><?php echo date_format($course_date, 'jS F Y')?></b>.
           </p>
           <?php if ($course[9] == "TRUE") { ?>
             <p>
