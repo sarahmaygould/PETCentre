@@ -44,7 +44,7 @@
           <a href="./documents/Referral_Form.pdf">Click here to download the referral form.</a>
         </p>
         <p>
-          If possible, please complete the form using Adobe Acrobat Reader, as this will allow you to add an electronic signature. Once you have filled in all sections, press the Submit button within the form. This attaches the form to an email to us, which you must send to submit your referral.
+          If possible, please complete the form using Adobe Acrobat Reader, as this will allow you to add a digital signature. <a href="./documents/How_To_Create_A_Digital_Signature.pdf">Click here</a> to download instructions about how to set up a digital signature for the first time. Once you have filled in all sections, press the Submit button within the form. This attaches the form to an email to us, which you must send to submit your referral.
         </p>
         <p>
           <b>Please note that PET requests will only be accepted from UK based clinicians. The referrer is required to read and acknowledge the referrer's responsibilities under IR(ME)R 2017, as detailed on the referral form.</b>
