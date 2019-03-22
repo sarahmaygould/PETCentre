@@ -42,7 +42,7 @@
 
         <h1>Funding Support from the Wellcome EPSRC Centre for Medical Engineering</h1>
         <p>
-          The CME has recently announced funding which will be allocated to help cover scan charges for smaller scanning projects where no existing funding is available. Eligibility is restricted to researchers based within the Centre of Medical Engineering (School of Biomedical Engineering & Imaging Sciences or Department of NeuroImaging).
+          The CME has recently announced funding which will be allocated to help cover scan charges for smaller scanning projects where no existing funding is available. Eligibility is restricted to researchers based within the Centre for Medical Engineering (School of Biomedical Engineering & Imaging Sciences or Department of NeuroImaging).
         </p>
         <p>
           Please <a href="./documents/CME_App_for_Scan_Charge_Support.docx">click here</a> to download the application form.
