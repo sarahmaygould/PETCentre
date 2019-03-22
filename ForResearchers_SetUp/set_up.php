@@ -32,12 +32,20 @@
         <hr>
 
         <h1>Guidance and Forms</h1>
-
         <p>
           <a href="./documents/Researchers_Guide.pdf">Setting up a Research study in PET - A Researcher&#39;s Guide</a>
         </p>
         <p>
           <a href="./documents/Preliminary_Proposal_Form.doc">Preliminary Proposal Form</a>
+        </p>
+        <hr>
+
+        <h1>Funding Support from the Wellcome EPSRC Centre for Medical Engineering</h1>
+        <p>
+          The CME has recently announced funding which will be allocated to help cover scan charges for smaller scanning projects where no existing funding is available. Eligibility is restricted to researchers based within the Centre of Medical Engineering (School of Biomedical Engineering & Imaging Sciences or Department of NeuroImaging).
+        </p>
+        <p>
+          Please <a href="./documents/CME_App_for_Scan_Charge_Support.docx">click here</a> to download the application form.
         </p>
 
       </div>
