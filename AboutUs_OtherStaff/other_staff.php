@@ -167,10 +167,6 @@
               <td class="staff-table-title">Radiochemist/QA Liaison</td>
             </tr>
             <tr>
-              <td class="staff-table-name">John Doan</td>
-              <td class="staff-table-title">QA Liaison</td>
-            </tr>
-            <tr>
               <td class="staff-table-name">Sambavi Ganeshamoorthy</td>
               <td class="staff-table-title">Radiochemist/QA Liaison</td>
             </tr>
@@ -201,6 +197,22 @@
             <tr>
               <td class="staff-table-name">Tomasz Lempert</td>
               <td class="staff-table-title">Translational QC PET Radiochemist</td>
+            </tr>
+            <tr>
+              <td class="staff-table-name">Haeol Jo</td>
+              <td class="staff-table-title">Production/QC Radiochemist</td>
+            </tr>
+            <tr>
+              <td class="staff-table-name">Priyal Doshi</td>
+              <td class="staff-table-title">QA Officer</td>
+            </tr>
+            <tr>
+              <td class="staff-table-name">Maciej W&oacute;jcik</td>
+              <td class="staff-table-title">Production/QC Radiochemist</td>
+            </tr>
+            <tr>
+              <td class="staff-table-name">Rebecca Hendry</td>
+              <td class="staff-table-title">Production/QC Radiochemist</td>
             </tr>
           </table>
         </div>
