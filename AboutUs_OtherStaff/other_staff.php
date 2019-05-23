@@ -64,7 +64,7 @@
               <td class="staff-table-sectionhead"><h1>Clinical Scientist Team</h1></td>
               <td></td>
             </tr>
-            <?php foreach ($scientist_array as $admin) { ?>
+            <?php foreach ($scientist_array as $scientist) { ?>
             <tr>
               <td class="staff-table-name"><?php echo $scientist[0] ?></td>
               <td class="staff-table-title"><?php echo $scientist[1] ?></td>
