@@ -12,6 +12,9 @@
     <div class = "page-content">
 
       <?php include_once '../Header/header.php'; ?>
+      <?php
+      $admin_array = array_map('str_getcsv', file("admin_team.csv"));
+      ?>
 
       <div class="page-body">
         <div class="page-title">
@@ -24,6 +27,12 @@
               <td class="staff-table-sectionhead"><h1>Administrative/Reception Team</h1></td>
               <td></td>
             </tr>
+            <?php foreach ($admin_array as $admin) { ?>
+            <tr>
+              <td class="staff-table-name"><?php$admin[0]?></td>
+              <td class="staff-table-title"><?php$admin[1]?></td>
+            </tr>
+            <?php } ?>
           </table>
         </div>
 
