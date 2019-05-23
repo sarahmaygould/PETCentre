@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+
+<?php
+$admin_array = array_map('str_getcsv', file("admin_team.csv"));
+?>
+
 <html>
 
   <head>
@@ -24,34 +29,12 @@
               <td class="staff-table-sectionhead"><h1>Administrative/Reception Team</h1></td>
               <td></td>
             </tr>
+            <?php foreach ($admin_array as $admin) { ?>
             <tr>
-              <td class="staff-table-name">Janet Reed-Stevens</td>
-              <td class="staff-table-title">PET Administrative Operational Manager</td>
+              <td class="staff-table-name"><?php$admin[0]?></td>
+              <td class="staff-table-title"><?php$admin[1]?></td>
             </tr>
-            <tr>
-              <td class="staff-table-name">Debbie Childs</td>
-              <td class="staff-table-title">PET Centre Medical Secretary</td>
-            </tr>
-            <tr>
-              <td class="staff-table-name">Elisabeth Bodin-Heon</td>
-              <td class="staff-table-title">PET Centre Receptionist</td>
-            </tr>
-            <tr>
-              <td class="staff-table-name">Simon Gallivan</td>
-              <td class="staff-table-title">PET Centre Administrative Assistant</td>
-            </tr>
-            <tr>
-              <td class="staff-table-name">Latifat Agoro</td>
-              <td class="staff-table-title">PET Operations Officer</td>
-            </tr>
-            <tr>
-              <td class="staff-table-name">Emma Sperring</td>
-              <td class="staff-table-title">Research Coordinator</td>
-            </tr>
-            <tr>
-              <td class="staff-table-name">Laura Zappulla</td>
-              <td class="staff-table-title">Departmental Administrator and PA to Professors</td>
-            </tr>
+            <?php } ?>
           </table>
         </div>
 
