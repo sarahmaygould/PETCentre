@@ -29,8 +29,8 @@
             </tr>
             <?php foreach ($admin_array as $admin) { ?>
             <tr>
-              <td class="staff-table-name"><?php$admin[0]?></td>
-              <td class="staff-table-title"><?php$admin[1]?></td>
+              <td class="staff-table-name"><?php $admin[0] ?></td>
+              <td class="staff-table-title"><?php $admin[1] ?></td>
             </tr>
             <?php } ?>
           </table>
