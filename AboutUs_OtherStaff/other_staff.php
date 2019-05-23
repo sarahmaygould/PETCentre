@@ -12,6 +12,9 @@
     <div class = "page-content">
 
       <?php include_once '../Header/header.php'; ?>
+      <?php
+      $admin_array = array_map('str_getcsv', file("admin_team.csv"));
+      ?>
 
       <div class="page-body">
         <div class="page-title">
