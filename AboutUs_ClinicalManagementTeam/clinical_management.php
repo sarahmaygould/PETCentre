@@ -33,9 +33,11 @@
               <h1><?php echo $management[1] ?></h1>
               <h2><?php echo $management[2] ?></h2>
               <?php echo $management[3] ?>
+              <?php if $management[4]=="TRUE" {?>
               <p>
                 <a href="<?php echo $management[5] ?>">Research Profile</a>
               </p>
+            <?php } ?>
             </div>
           </div>
           <hr>
