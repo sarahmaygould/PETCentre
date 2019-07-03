@@ -24,6 +24,10 @@
           Clinical and Management Team
         </div>
 
+        <?php foreach ($management_array as $management) { ?>
+          <hr>
+        <?php } ?>
+
       </div>
       <div class="page-end"></div>
     </div>
