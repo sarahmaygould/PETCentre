@@ -11,8 +11,8 @@
   <body>
     <div class = "page-content">
 
+      <?php include_once '../Header/header.php'; ?>
       <?php
-        include_once '../Header/header.php';
         $management_array = array_map('str_getcsv', file("clinical_management.csv"));
         unset($management_array[0]);
         $other_array = array_map('str_getcsv', file("other_clinical.csv"));
@@ -22,8 +22,24 @@
         <div class="page-title">
           Clinical and Management Team
         </div>
-
-
+        <?php foreach ($management_array as $managment) { ?>
+        <div class="LR-container">
+          <div class="LI-image">
+            <img src="images/<?php echo $management[0] ?>" alt="<?php echo $management[1] ?>" width="140">
+          </div>
+          <div class="LI-text staff-section">
+            <h1><?php echo $management[1] ?></h1>
+            <h2><?php echo $management[2] ?></h2>
+            <?php echo $management[3] ?>
+            <?php if $management[4]=="TRUE" {?>
+            <p>
+              <a href="<?php echo $management[5] ?>">Research Profile</a>
+            </p>
+          <?php } ?>
+          </div>
+        </div>
+        <hr>
+        <?php } ?>
 
         <div>
           <p><b>Expertise is also provided by clinical colleagues from Nuclear Medicine and Radiology:</b></p>
