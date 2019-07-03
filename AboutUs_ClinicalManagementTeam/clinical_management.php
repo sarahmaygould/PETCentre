@@ -29,6 +29,11 @@
             <div class="LI-image">
               <img src="images/<?php echo $management[0] ?>" alt="<?php echo $management[1] ?>" width="140">
             </div>
+            <div class="LI-text staff-section">
+              <h1><?php echo $management[1] ?></h1>
+              <h2><?php echo $management[2] ?></h2>
+              <?php echo $management[3] ?>
+            </div>
           </div>
           <hr>
         <?php } ?>
