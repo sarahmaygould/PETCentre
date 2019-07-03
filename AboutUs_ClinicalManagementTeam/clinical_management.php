@@ -22,7 +22,7 @@
         <div class="page-title">
           Clinical and Management Team
         </div>
-        <?php foreach ($management_array as $managment) { ?>
+        <?php foreach ($management_array as $management) { ?>
         <div class="LR-container">
           <div class="LI-image">
             <img src="images/<?php echo $management[0] ?>" alt="<?php echo $management[1] ?>" width="140">
