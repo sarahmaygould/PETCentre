@@ -43,6 +43,15 @@
           <hr>
         <?php } ?>
 
+        <div>
+          <p><b>Expertise is also provided by clinical colleagues from Nuclear Medicine and Radiology:</b></p>
+          <ul id="colleagues-list">
+            <?php foreach ($other_array as $other) { ?>
+            <li><?php echo $other[0] ?></li>
+          <?php } <?>
+          </ul>
+        </div>
+
       </div>
       <div class="page-end"></div>
     </div>
