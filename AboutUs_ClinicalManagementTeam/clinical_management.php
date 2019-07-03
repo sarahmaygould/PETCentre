@@ -13,6 +13,12 @@
 
       <?php include_once '../Header/header.php'; ?>
 
+      <?php
+        $management_array = array_map('str_getcsv', file("clinical_management.csv"));
+        unset($management_array[0]);
+        $other_array = array_map('str_getcsv', file("other_clinical.csv"));
+      ?>
+
       <div class="page-body">
         <div class="page-title">
           Clinical and Management Team
