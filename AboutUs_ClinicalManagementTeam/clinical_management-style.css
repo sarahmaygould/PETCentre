@@ -6,10 +6,11 @@
   list-style-type: none;
   margin: 0;
   padding: 0 0 1em 0;
-  column-count: 3;
   text-align: center;
 }
 
 #colleagues-list li {
   padding: 0.5em;
+  display: inline-block;
+  width: 33%;
 }
