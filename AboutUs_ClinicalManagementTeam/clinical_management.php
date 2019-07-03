@@ -48,7 +48,7 @@
           <ul id="colleagues-list">
             <?php foreach ($other_array as $other) { ?>
             <li><?php echo $other[0] ?></li>
-          <?php } <?>
+          <?php } ?>
           </ul>
         </div>
 
