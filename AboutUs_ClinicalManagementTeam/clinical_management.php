@@ -33,6 +33,9 @@
               <h1><?php echo $management[1] ?></h1>
               <h2><?php echo $management[2] ?></h2>
               <?php echo $management[3] ?>
+              <p>
+                <a href="<?php echo $management[5] ?>">Research Profile</a>
+              </p>
             </div>
           </div>
           <hr>
