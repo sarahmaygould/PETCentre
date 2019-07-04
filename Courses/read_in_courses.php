@@ -3,9 +3,9 @@ $course_array = array_map('str_getcsv', file("courses.csv"));
 unset($course_array[0]);
 
 foreach ($course_array as $course) {
-  if ($course[6] == "TRUE") {
+  if ($course[7] == "TRUE") {
 
-    $course_date = date_create_from_format('d/m/Y', $course[5]);
+    $course_date = date_create_from_format('d/m/Y', $course[6]);
     $today = new DateTime("now");
 ?>
     <div class="LR-container">
@@ -16,7 +16,7 @@ foreach ($course_array as $course) {
         <h1><?php echo $course[0]?></h1>
         <?php echo $course[1]?>
 
-        <?php if ($course[7] == "TRUE") { ?>
+        <?php if ($course[8] == "TRUE") { ?>
           <p>
             <a href="pet_technology_course.php" target="_blank">Click here for more information about this course.</a>
           </p>
@@ -26,12 +26,14 @@ foreach ($course_array as $course) {
           <p>
             This course will next be held on&#47;from the <b><?php echo date_format($course_date, 'jS F Y')?></b>.
           </p>
-          <?php if ($course[9] == "TRUE") { ?>
+          <?php if ($course[10] == "TRUE") { ?>
+            <?php if ($course[3] == "TRUE") { ?>
             <p>
-              <a href="<?php echo "documents/" . $course[3]?>" target="_blank">Click here to download the course flyer.</a>
+              <a href="<?php echo "documents/" . $course[4]?>" target="_blank">Click here to download the course flyer.</a>
             </p>
+          <?php } ?>
             <p>
-              <a href="<?php echo $course[4]?>" target="_blank">Click here for more information and to apply.</a>
+              <a href="<?php echo $course[5]?>" target="_blank">Click here for more information and to apply.</a>
             </p>
           <?php } else { ?>
             <p>
@@ -40,7 +42,7 @@ foreach ($course_array as $course) {
           <?php } ?>
         <?php } else { ?>
           <p>
-            This course is usually held in <?php echo $course[8] ?>. Please check back later for details of how to apply.
+            This course is usually held in <?php echo $course[9] ?>. Please check back later for details of how to apply.
           </p>
         <?php } ?>
       </div>
