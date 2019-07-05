@@ -1,5 +1,3 @@
-hello world
-
 <?php
 $course_array = array_map('str_getcsv', file("courses.csv"));
 unset($course_array[0]);
@@ -10,11 +8,19 @@ $future_courses = array();
 foreach ($course_array as $key => $course) {
   $course_date = date_create_from_format('d/m/Y', $course[8]);
   if ($course_date > $today) {
-    $future_courses[] = $course;
+    $future_array[] = $course;
     unset($course_array[$key]);
   }
 }
 
+foreach ($future_array as $course) {
+  if ($course[9] == "TRUE") {
+?>
+hello world
+<?php }
+} ?>
+
+<?php
 foreach ($course_array as $course) {
   if ($course[9] == "TRUE") {
 ?>
