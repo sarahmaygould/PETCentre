@@ -15,7 +15,7 @@ foreach ($course_array as $course) {
   }
 }
 
-foreach ($course_array as $course) {
+foreach ($future_courses as $course) {
   if ($course[9] == "TRUE") {
 ?>
 
