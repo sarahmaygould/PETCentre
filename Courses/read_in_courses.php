@@ -1,4 +1,6 @@
-<?php
+hello world
+
+<!-- <?php
 // $course_array = array_map('str_getcsv', file("courses.csv"));
 // unset($course_array[0]);
 // $today = new DateTime("now");
@@ -12,7 +14,7 @@
 //     unset($course_array[$course]);
 //   }
 // }
-?>
+?> -->
 
     <!-- <div class="LR-container">
       <div class="LI-image">
