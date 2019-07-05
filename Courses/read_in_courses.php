@@ -14,6 +14,9 @@ foreach ($course_array as $key => $course) {
 }
 
 $course_date_array  = array_column($future_array, 8);
+
+var_dump($course_date_array);
+
 array_multisort($course_date_array, SORT_ASC, $future_array);
 
 foreach ($future_array as $course) {
