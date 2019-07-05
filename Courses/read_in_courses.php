@@ -26,18 +26,18 @@ foreach ($course_array as $course) {
       <div class="LI-text">
         <h1><?php echo $course[0]?></h1>
         <?php echo $course[1]?>
+
+        <?php if ($course[10] == "TRUE") { ?>
+        <p>
+          <a href="pet_technology_course.php" target="_blank">Click here for more information about this course.</a>
+        </p>
+        <?php } ?>
+
+        <p>
+          This course is usually held in <?php echo $course[11] ?>. Please check back later for details of how to apply.
+        </p>
       </div>
     </div>
-
-    <?php if ($course[10] == "TRUE") { ?>
-      <p>
-        <a href="pet_technology_course.php" target="_blank">Click here for more information about this course.</a>
-      </p>
-    <?php } ?>
-
-    <p>
-      This course is usually held in <?php echo $course[11] ?>. Please check back later for details of how to apply.
-    </p>
 
   <?php }
 } ?>
