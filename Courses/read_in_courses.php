@@ -24,7 +24,8 @@ usort($future_array, 'date_compare');
 foreach ($future_array as $course) {
   if ($course[9] == "TRUE") {
 ?>
-hello world
+<?php echo $course[8]; ?>
+
 <?php }
 } ?>
 
