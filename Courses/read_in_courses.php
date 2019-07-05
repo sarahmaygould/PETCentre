@@ -47,17 +47,21 @@ foreach ($future_array as $course) {
 
         <?php if ($course[12] == "TRUE") { ?>
           <?php if ($course[3] == "TRUE") { ?>
-          <p>
-            <a href="<?php echo "documents/" . $course[4]?>" target="_blank">Click here to download the flyer for the upcoming course.</a>
-          </p>
+            <p>
+              <a href="<?php echo "documents/" . $course[4]?>" target="_blank">Click here to download the flyer for the upcoming course.</a>
+            </p>
           <?php } ?>
           <?php if ($course[5] == "TRUE") { ?>
-          <p>
-            <a href="<?php echo "documents/" . $course[6]?>" target="_blank">Click here to download the programme for the upcoming course.</a>
-          </p>
+            <p>
+              <a href="<?php echo "documents/" . $course[6]?>" target="_blank">Click here to download the programme for the upcoming course.</a>
+            </p>
           <?php } ?>
           <p>
             <a href="<?php echo $course[7]?>" target="_blank">Click here for more information and to apply.</a>
+          </p>
+        <?php } else { ?>
+          <p>
+            The booking for this course is not yet open but please email <a href="mailto:teachingadmin-imaging@kcl.ac.uk">teachingadmin-imaging@kcl.ac.uk</a> to be added to the course mailing list.
           </p>
         <?php } ?>
 
