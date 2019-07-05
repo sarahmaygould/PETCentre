@@ -14,13 +14,11 @@ foreach ($course_array as $key => $course) {
 }
 
 $course_date_array_string  = array_column($future_array, 8);
-var_dump($course_date_array_string);
 $course_date_array = array();
 foreach($course_date_array_string as $course_date_string) {
   $course_date = date_create_from_format('d/m/Y', $course_date_string);
   $course_date_array[] = $course_date;
 }
-var_dump($course_date_array);
 
 array_multisort($course_date_array, SORT_ASC, $future_array);
 
