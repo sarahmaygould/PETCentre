@@ -14,7 +14,7 @@ foreach ($course_array as $course) {
 }
 ?>
 
-    <div class="LR-container">
+    <!-- <div class="LR-container">
       <div class="LI-image">
         <img src="<?php echo "images/" . $course[2]?>" alt="<?php echo $course[2]?>" width="150">
       </div>
@@ -61,4 +61,4 @@ foreach ($course_array as $course) {
   <?php
     echo "<hr>";
   }
-} ?>
+} ?> -->
