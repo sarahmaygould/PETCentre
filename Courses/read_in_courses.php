@@ -7,11 +7,11 @@ $today = new DateTime("now");
 
 $future_courses = array();
 
-foreach ($course_array as $course) {
+foreach ($course_array as $key => $course) {
   $course_date = date_create_from_format('d/m/Y', $course[8]);
   if ($course_date > $today) {
     $future_courses[] = $course;
-    unset($course_array[$course]);
+    unset($course_array[$key]);
   }
 }
 
