@@ -63,7 +63,7 @@ foreach ($future_array as $course) {
 
       </div>
     </div>
-
+    <hr>
 <?php }
 } ?>
 
@@ -91,6 +91,6 @@ foreach ($course_array as $course) {
         </p>
       </div>
     </div>
-
+    <hr>
   <?php }
 } ?>
