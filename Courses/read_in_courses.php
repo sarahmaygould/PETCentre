@@ -14,4 +14,19 @@ foreach ($course_array as $course) {
     unset($course_array[$course]);
   }
 }
+
+foreach ($course_array as $course) {
+  if ($course[9] == "TRUE") {
 ?>
+
+    <div class="LR-container">
+      <div class="LI-image">
+        <img src="<?php echo "images/" . $course[2]?>" alt="<?php echo $course[2]?>" width="150">
+      </div>
+      <div class="LI-text">
+        <h1><?php echo $course[0]?></h1>
+        <?php echo $course[1]?>
+      </div>
+    </div>
+  <?php }
+} ?>
