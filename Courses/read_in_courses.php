@@ -13,6 +13,14 @@ foreach ($course_array as $key => $course) {
   }
 }
 
+function date_compare($element1, $element2) {
+    $datetime1 = strtotime($element1['datetime']);
+    $datetime2 = strtotime($element2['datetime']);
+    return $datetime1 - $datetime2;
+}
+
+usort($future_array, 'date_compare');
+
 foreach ($future_array as $course) {
   if ($course[9] == "TRUE") {
 ?>
