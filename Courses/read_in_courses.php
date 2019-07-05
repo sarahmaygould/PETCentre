@@ -16,14 +16,15 @@ foreach ($course_array as $key => $course) {
 $course_date_array_string  = array_column($future_array, 8);
 $course_date_array = array();
 foreach($course_date_array_string as $course_date_string) {
-  $course_date_num = date_create_from_format('d/m/Y', $course_date_string);
-  $course_date_array[] = $course_date_num;
+  $course_date = date_create_from_format('d/m/Y', $course_date_string);
+  $course_date_array[] = $course_date;
 }
 
 array_multisort($course_date_array, SORT_ASC, $future_array);
 
 foreach ($future_array as $course) {
   if ($course[9] == "TRUE") {
+    $course_date = date_create_from_format('d/m/Y', $course[8]);
 ?>
 
     <div class="LR-container">
