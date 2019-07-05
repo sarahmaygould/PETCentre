@@ -74,7 +74,7 @@
               This course will equip you to work as a radiopharmaceutical scientist in a PET radiochemistry centre (cyclotron unit) or a conventional radiopharmacy.
             </p>
             <p>
-              <a href="http://www.kcl.ac.uk/prospectus/graduate/nuclear-medicine-science-and-practice" target="_blank">Click here for more information and to apply.</a>
+              <a href="https://www.kcl.ac.uk/study/postgraduate/taught-courses/nuclear-medicine-science-and-practice-msc-pg-dip-pg-cert.aspx" target="_blank">Click here for more information and to apply.</a>
             </p>
           </div>
         </div>
