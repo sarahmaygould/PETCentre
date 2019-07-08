@@ -47,7 +47,7 @@ foreach ($future_array as $course) {
           $datePhrase = "from the " . date_format($course_date, 'jS F Y') . " to the " . date_format($course_date, 'jS F Y');
         } ?>
 
-        <?php echo $course_date; ?>
+        <?php var_dump($course_date) ?>
 
         <p>
           This <?php echo $course[13] ?> day course will next be held <?php echo $datePhrase ?>.
