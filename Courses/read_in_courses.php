@@ -49,9 +49,9 @@ foreach ($future_array as $course) {
 
         <?php
         var_dump($course_date);
-        $intervaltoadd = $course[13] . "days";
+        $intervaltoadd = $course[13] . " days";
         var_dump($intervaltoadd);
-        $enddate = add($course_date, $intervaltoadd);
+        $enddate = add($course_date, date_interval_create_from_date_string($intervaltoadd);
         var_dump($enddate);
         ?>
 
