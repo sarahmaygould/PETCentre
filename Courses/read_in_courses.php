@@ -42,13 +42,13 @@ foreach ($future_array as $course) {
         <?php } ?>
 
         <?php if ($course[13] == "1") {
-          $datePhrase = "on the" . date_format($course_date, 'jS F Y');
+          $datePhrase = "on the " . date_format($course_date, 'jS F Y');
         } else {
-          $datePhrase = "TEST";
+          $datePhrase = "from the " . date_format($course_date, 'jS F Y') . " to the " . date_format($course_date + $course[13], 'jS F Y');
         } ?>
 
         <p>
-          This is a <?php echo $course[13] ?> day course will next be held <?php echo $datePhrase ?>.
+          This <?php echo $course[13] ?> day course will next be held <?php echo $datePhrase ?>.
         </p>
 
         <?php if ($course[12] == "TRUE") { ?>
