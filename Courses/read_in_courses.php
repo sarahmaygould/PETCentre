@@ -44,9 +44,10 @@ foreach ($future_array as $course) {
         <?php if ($course[13] == "1") {
           $datePhrase = "on the " . date_format($course_date, 'jS F Y');
         } else {
-          echo $course_date;
           $datePhrase = "from the " . date_format($course_date, 'jS F Y') . " to the " . date_format($course_date, 'jS F Y');
         } ?>
+
+        <?php echo $course_date; ?>
 
         <p>
           This <?php echo $course[13] ?> day course will next be held <?php echo $datePhrase ?>.
