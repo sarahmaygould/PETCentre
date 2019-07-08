@@ -51,7 +51,7 @@ foreach ($future_array as $course) {
         var_dump($course_date);
         $intervaltoadd = $course[13] . "days";
         var_dump($intervaltoadd);
-        $enddate = date_add($course_date, $intervaltoadd);
+        $enddate = add($course_date, $intervaltoadd);
         var_dump($enddate);
         ?>
 
