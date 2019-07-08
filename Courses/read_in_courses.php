@@ -45,7 +45,9 @@ foreach ($future_array as $course) {
           $datePhrase = "on the " . date_format($course_date, 'jS F Y');
         } else {
           $start_date = $course_date;
+          var_dump($start_date);
           $end_date = date_add($course_date, date_interval_create_from_date_string($course[13] . " days"));
+          var_dump($start_date);
           $datePhrase = "from the " . date_format($start_date, 'jS F Y') . " to the " . date_format($end_date, 'jS F Y');
         } ?>
 
