@@ -25,7 +25,7 @@
           If you are interested in one of our projects and becoming one of our PhDs, Post Docs or Fellows please look on the staff page for the relevant principal investigator's details and get in touch.
         </p>
         <p>
-          To look at other short course options that we have available please take a look <a href="http://www.kcl.ac.uk/lsm/research/divisions/imaging/study/Short-courses.aspx" target="_blank">here</a>.
+          To look at other short course options that we have available please take a look <a href="https://www1.kcl.ac.uk/prospectus/shortcourses/list/keyword/medicine" target="_blank">here</a>.
         </p>
         <p>
           Contact <a href="mailto:teachingadmin-imaging@kcl.ac.uk">teachingadmin-imaging@kcl.ac.uk</a> if you wish to be added to the course mailing list.
