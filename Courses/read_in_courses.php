@@ -48,7 +48,7 @@ foreach ($future_array as $course) {
         } ?>
 
         <p>
-          This course will next be held <?php echo $datePhrase ?>.
+          This is a <?php echo $course[13] ?> day course will next be held <?php echo $datePhrase ?>.
         </p>
 
         <?php if ($course[12] == "TRUE") { ?>
