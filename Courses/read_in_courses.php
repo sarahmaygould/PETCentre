@@ -97,7 +97,7 @@ foreach ($course_array as $course) {
         <?php } ?>
 
         <p>
-          This course is usually held in <?php echo $course[11] ?>. Please check back later for details of how to apply.
+          This <?php echo $course[13] ?> day course is usually held in <?php echo $course[11] ?>. Please check back later for details of how to apply.
         </p>
       </div>
     </div>
