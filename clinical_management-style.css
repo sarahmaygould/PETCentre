@@ -1,0 +1,17 @@
+.staff-section h1 {
+  margin-top: 0;
+}
+
+#colleagues-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0 0 1em 0;
+  text-align: center;
+}
+
+#colleagues-list li {
+  padding: 0.5em 0 0.5em 0;
+  margin: 0;
+  display: inline-block;
+  width: 33%;
+}
