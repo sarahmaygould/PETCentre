@@ -29,7 +29,7 @@ foreach ($future_array as $course) {
 
     <div class="LR-container">
       <div class="LI-image">
-        <img src="<?php echo "images/" . $course[2]?>" alt="<?php echo $course[2]?>" width="250">
+        <img src="<?php echo "images/" . $course[2]?>" alt="<?php echo $course[2]?>" width="150">
       </div>
       <div class="LI-text">
         <h1><?php echo $course[0]?></h1>
