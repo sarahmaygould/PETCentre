@@ -23,7 +23,7 @@ foreach ($news_item_array as $news_item) {
 ?>
     <div class="LR-container">
       <div class="LI-image">
-        <img src="<?php echo $path_to_news . "images/" . $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="250">
+        <img src="<?php echo $path_to_news . "images/" . $news_item[2]?>" alt="<?php echo $news_item[2]?>" width="200">
       </div>
       <div class="LI-text">
         <h1><?php echo $news_item[0]?></h1>
