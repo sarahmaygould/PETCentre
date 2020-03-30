@@ -120,10 +120,15 @@ li {
 }
 
 .strong-covid {
-  font-size: 100%;
+  font-size: 110%;
   background-color: #ffeb3b;
-  padding: 0;
-  margin: 0;
+  padding: 1em 2em;
+  margin: 0 -1em;
+}
+
+.strong-covid a {
+  color: black;
+  text-decoration: underline;
 }
 
 .covid {
