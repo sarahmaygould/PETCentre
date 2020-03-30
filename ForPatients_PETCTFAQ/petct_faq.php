@@ -17,6 +17,22 @@
           PET-CT Scanning: Frequently Asked Questions
         </div>
 
+        <div class="covid">
+          <h1>I am worried that I might have Covid-19/coronavirus.<h1>
+          <p>
+            Please visit the <a href="https://111.nhs.uk/?utm_source=nhsuk&utm_campaign=nhs_services&utm_content=nhs_111">NHS 111 website</a> for advice.
+          </p>
+
+          <hr>
+
+          <h1>I have an appointment soon and I have not heard from you.<h1>
+          <p>
+            We ask all patients to confirm their attendance (see appointment letter). We also aim to contact all patients in advance of their appointment, typically by the day before the appointment.
+          </p>
+        </div>
+
+        <hr>
+
 				<h1>A patient&#39;s guide to having a PET-CT scan</h1>
 				<p>
 					A brief guide to a PET&#45;CT scan as offered by the PET Imaging Centre at St Thomas&#39; Hospital and the Cancer Centre at Guy's is now available. This leaflet is for our patients and can either be downloaded directly from this site or a copy can be requested by contacting the	department. Information from the leaflet is also included below in our FAQ.
