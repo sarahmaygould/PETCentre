@@ -15,7 +15,7 @@
 
       <div class="page-body">
         <div class="strong-covid">
-          The PET Centre remains open, but due to the Covid-19 pandemic we are having to make significant changes to our services. Please see specific advice in the tab relevant for you, e.g. “<a href="../ForPatients_YourVisit/your_visit.php">For Patients</a>”, “<a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>”, “<a href="../ForResearchers_Overview/overview.php">For Researchers”</a>, and updates under “<a href="../Courses/courses.php">Courses</a>”.
+          The PET Centre remains open, but due to the Covid-19 pandemic we are having to make significant changes to our services. Please see specific advice in the tab relevant for you, e.g. <a href="../ForPatients_YourVisit/your_visit.php">For Patients</a>, <a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>, <a href="../ForResearchers_Overview/overview.php">For Researchers</a>, and updates under <a href="../Courses/courses.php">Courses</a>.
         </div>
         <div class="LR-container">
           <div class="LI-image">
