@@ -32,12 +32,12 @@
             If you have any questions about your upcoming PET-CT scan please contact us by email or telephone (see the <a href="../ContactUs/contact_us.php">Contact Us</a> page for details). Our phone lines may be busy and there may be a wait for your call to be answered.
           </p>
           <p>
-            If you have any questions please visit our <a href="../ForPatients_PETCTFAQ/petct_faq.php"> page. If your query is not covered in the FAQs please <a href="../ContactUs/contact_us.php">Contact Us</a>.
+            If you have any questions please visit our <a href="../ForPatients_PETCTFAQ/petct_faq.php">FAQ page</a>. If your query is not covered in the FAQs please <a href="../ContactUs/contact_us.php">Contact Us</a>.
           </p>
         </div>
 
         <hr>
-        
+
         <div class="LR-container">
           <div class="LI-image">
             <img src="images/ConsultChild_small.jpg" alt="Consultation at the PET Centre" width="300">
