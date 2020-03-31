@@ -18,7 +18,7 @@
         </div>
 
         <div class="covid">
-          <h1>I am worried that I might have Covid-19/coronavirus.</h1>
+          <h1>I am worried that I might have COVID-19/coronavirus.</h1>
           <p>
             Please visit the <a href="https://111.nhs.uk/?utm_source=nhsuk&utm_campaign=nhs_services&utm_content=nhs_111">NHS 111 website</a> for advice.
           </p>

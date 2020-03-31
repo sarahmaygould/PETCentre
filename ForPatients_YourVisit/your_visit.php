@@ -20,7 +20,7 @@
 
         <div class="covid">
           <p>
-            Due to the Covid-19 pandemic we are having to make significant changes to our services which may require postponing of non-urgent appointments. However, the PET Centre remains open, and if you require a PET-CT scan we will do our utmost to ensure you get it.
+            Due to the COVID-19 pandemic we are having to make significant changes to our services which may require postponing of non-urgent appointments. However, the PET Centre remains open, and if you require a PET-CT scan we will do our utmost to ensure you get it.
           </p>
           <p>
             When we contact you ahead of your appointment, we will now enquire about symptoms of COVID-19. If you have symptoms, we will ask you to defer your appointment.
