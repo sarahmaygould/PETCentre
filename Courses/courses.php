@@ -33,6 +33,12 @@
 
         <hr>
 
+        <p>
+          Due to the COVID-19 pandemic there will be some changes to the courses we run. In some cases courses will be postponed or cancelled and some courses may be held electronically. Please follow the links under each course to visit the KCL website for the most up to date information.
+        </p>
+        
+        <hr>
+
         <?php include_once 'read_in_courses.php'; ?>
 
         <div class="LR-container">

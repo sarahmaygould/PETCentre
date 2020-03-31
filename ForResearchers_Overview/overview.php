@@ -61,9 +61,9 @@
           <h1>Amendments and protocol deviations for studies / trials currently running</h1>
           <h2>Amendments / Urgent Safety Measure</h2>
           <ul>
-            <li>If you are notified of a new protocol amendment by an external trial sponsor, please forward this to r&d@gstt.nhs.uk or to KHPCTOamendments@kcl.ac.uk.</li>
+            <li>If you are notified of a new protocol amendment by an external trial sponsor, please forward this to <a href="mailto:r&d@gstt.nhs.uk">r&d@gstt.nhs.uk</a> or to <a href="mailto:KHPCTOamendments@kcl.ac.uk">KHPCTOamendments@kcl.ac.uk</a>.</li>
             <li>The R&D Governance Team or the KHP-CTO Commercial team will process the amendment and inform you when the amendment is approved / provide acknowledgment.</li>
-            <li>If you wish to introduce a protocol amendment or Urgent Safety Measure for a GSTT/KCL sponsored CTIMP please contact khpcto.crateam@kcl.ac.uk For non-CTIMPs please contact r&d@gstt.nhs.uk.</li>
+            <li>If you wish to introduce a protocol amendment or Urgent Safety Measure for a GSTT/KCL sponsored CTIMP please contact <a href="mailto:khpcto.crateam@kcl.ac.uk">khpcto.crateam@kcl.ac.uk</a>. For non-CTIMPs please contact <a href="mailto:r&d@gstt.nhs.uk">khpcto.crateam@kcl.ac.uk</a>.</li>
           </ul>
           <h2>Protocol Deviations</h2>
           <ul>
