@@ -48,6 +48,7 @@
       <div class="subnav-content">
         <a class="subnav-item" href="../ForResearchers_SetUp/set_up.php">Setting Up a Study</a>
         <a class="subnav-item" href="../ForResearchers_CurrentStudies/current_studies.php">Current Studies</a>
+        <a class="subnav-item" href="../ForResearchers_COVID19/covid19.php">COVID-19 Information</a>
       </div>
     </div>
     <!-- <a href="../CaseOfTheMonth/case_of_the_month.php">Case of the Month</a> -->
