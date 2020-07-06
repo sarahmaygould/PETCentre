@@ -45,7 +45,7 @@
 					The Centre is active in many areas of research, including the development and evaluation of new tracers, the development and assessment of new clinical PET indications, coordination of national and international cancer trials using PET-CT imaging and new PET technology and data analysis methods. Medical and scientific staff make regular contributions at major international conferences and to leading journals on imaging related topics.
 				</p>
         <p>
-          <a href="../ForResearchers_Overview/overview.php">Click here to find out more about our research activities.</a>
+          <a href="../AboutUs_Research/research.php">Click here to find out more about our research activities.</a>
         </p>
 
         <div class="LR-container">

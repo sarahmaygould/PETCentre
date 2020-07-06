@@ -29,6 +29,7 @@
       <button class="subnavbtn">About Us</button>
       <div class="subnav-content">
         <a class="subnav-item" href="../AboutUs_WhatWeDo/what_we_do.php">What We Do</a>
+        <a class="subnav-item" href="../AboutUs_Research/research.php">Our Research</a>
         <a class="subnav-item" href="../AboutUs_ClinicalManagementTeam/clinical_management.php">Clinical and Management Team</a>
         <a class="subnav-item" href="../AboutUs_OtherStaff/other_staff.php">Other Staff Members</a>
       </div>
@@ -45,7 +46,6 @@
     <div class="subnav subnav-hover">
       <button class="subnavbtn">For Researchers</button>
       <div class="subnav-content">
-        <a class="subnav-item" href="../ForResearchers_Overview/overview.php">Overview</a>
         <a class="subnav-item" href="../ForResearchers_SetUp/set_up.php">Setting Up a Study</a>
         <a class="subnav-item" href="../ForResearchers_CurrentStudies/current_studies.php">Current Studies</a>
       </div>
