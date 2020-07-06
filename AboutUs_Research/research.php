@@ -39,6 +39,10 @@
           A major investment in the PET Centre in 2013 allowed the acquisition of two new PET-CT scanners and a PET-MRI scanner as well as a new radiochemistry facility and a second cyclotron. In 2016 we opened a new PET-CT Suite within the new Cancer Centre at Guy&#39;s.
         </p>
 
+        <p>
+          <a href="../ForResearchers_CurrentStudies/current_studies.php">Click here for a list of our current studies.</a>
+        </p>
+
         <hr>
 
 				<h1>Particular Interests</h1>
