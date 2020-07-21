@@ -43,10 +43,10 @@
 
         <h1>Referrals Procedure</h1>
         <p>
-          Referrals must be made in writing, either on a PET Centre referral form (below, or available from the Centre) or by referral letter. The form or letter then needs to be sent or faxed to the PET Centre. Please note that all referrals should include the patient's full name, date of birth, address and telephone number and, if an NHS referral, please include the GP details. Private patient referrals should also indicate the payment method. The clinical reason for the scan request, relevant past medical history including surgical intervention, previous treatment and results of imaging examinations are also required.
+          Referrals must be made in writing, either on a PET Centre referral form (below, or available from the Centre) or by referral letter. The form or letter then needs to be emailed to the PET Centre at <a href="mailto:gst-tr.PETCentre@nhs.net"> gst-tr.PETCentre@nhs.net</a>. Please note that all referrals should include the patient's full name, date of birth, address and telephone number and, if an NHS referral, please include the GP details. Private patient referrals should also indicate the payment method. The clinical reason for the scan request, relevant past medical history including surgical intervention, previous treatment and results of imaging examinations are also required.
         </p>
         <p>
-          The administrative office for the Centre is also based at St Thomas' so please direct all referrals, enquiries and requests for reports to the St Thomas'office.
+          The administrative office for the Centre is also based at St Thomas' so please direct all referrals, enquiries and requests for reports to the St Thomas' office.
         </p>
         <p>
           Patient appointments will be scheduled at the first available time, usually within 2 weeks for routine referrals or earlier if clinical need dictates. Appointments are generally confirmed in writing, along with an illustrated brochure describing the procedure. Scan visits take between 1-3 hours depending on the procedure and careful consideration is being given to patient comfort throughout using our new patient areas to full effect. The radiation dose received is very small due to the short half-life of the tracers, and roughly equal to that of a barium meal. The only contra-indication is pregnancy.
