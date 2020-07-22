@@ -40,6 +40,7 @@
         <a class="subnav-item" href="../ForPatients_YourVisit/your_visit.php">Your Visit</a>
         <a class="subnav-item" href="../ForPatients_PETCTFAQ/petct_faq.php">FAQs for PET-CT</a>
         <a class="subnav-item" href="../ForPatients_PETMRFAQ/petmr_faq.php">FAQs for PET-MR</a>
+        <a class="subnav-item" href="../ForPatients_COVID19/covid19.php">COVID-19 Information</a>
       </div>
     </div>
     <a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>
