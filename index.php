@@ -15,7 +15,7 @@
 
       <div class="page-body">
         <div class="strong-covid">
-          The PET Centre remains open, but due to the COVID-19 pandemic we are having to make significant changes to our services. Please see specific advice in the tab relevant for you, e.g. <a href="../ForPatients_YourVisit/your_visit.php">For Patients</a>, <a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>, <a href="../ForResearchers_COVID19/covid19.php">For Researchers</a>, and updates under <a href="../Courses/courses.php">Courses</a>.
+          The PET Centre remains open, but due to the COVID-19 pandemic we are having to make significant changes to our services. Please see specific advice in the tab relevant for you, e.g. <a href="../ForPatients_COVID19/covid19.php">For Patients</a>, <a href="../ForClinicians_Referrals/referrals.php">For Clinicians</a>, <a href="../ForResearchers_COVID19/covid19.php">For Researchers</a>, and updates under <a href="../Courses/courses.php">Courses</a>.
         </div>
         <div class="LR-container">
           <div class="LI-image">
@@ -24,7 +24,7 @@
           </div>
           <div class="LI-text">
             <p>
-              With almost 30 years experience of PET and PET-CT scanning and now also PET-MR, the King&#39;s College London & Guy&#39;s and St Thomas&#39; PET Centre provides PET services for referred patients at a local and national level and performs clinically related research. We scan over 7000 patients per year. Enhancements and refurbishments over the last five years let us be there for our patients at every step of the experience and make it as smooth and comfortable as possible.
+              With almost 30 years&#39; experience of PET and PET-CT scanning and now also PET-MR, the King&#39;s College London & Guy&#39;s and St Thomas&#39; PET Centre provides PET services for referred patients at a local and national level and performs clinically related research. We scan over 8000 patients per year. Enhancements and refurbishments over the last five years let us be there for our patients at every step of the experience and make it as smooth and comfortable as possible.
             </p>
             <p>
               Our PET Centre is a centre of excellence with an international reputation for delivering the best patient care, highest quality academic research, and training. We strive to make a difference for the patients we scan, and via the research we perform.

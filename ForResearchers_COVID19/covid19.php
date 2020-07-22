@@ -63,7 +63,6 @@
           </p>
         </em>
         </div>
-        <hr>
       </div>
       <div class="page-end"></div>
     </div>
