@@ -19,7 +19,7 @@
 
         <div class="covid">
           <p>
-            Due to the COVID-19 pandemic we are having to make significant changes to our services which may require postponement of non-urgent appointments. However, the PET Centre remains open, and if you require a PET-CT scan for your patient we will do our utmost to ensure it is performed. Normally this will be for oncological pathways. Please note scanning is currently (27 March 2020) consolidated at the St Thomas’ site and we are currently unable to offer slots at Guy’s Cancer.
+            Due to the COVID-19 pandemic we are having to make significant changes to our services which may require postponement of non-urgent appointments. However, the PET Centre remains open, and if you require a PET-CT scan for your patient we will do our utmost to ensure it is performed.
           </p>
           <p>
             Please be aware that when we contact patients ahead of their appointment, we will now enquire about symptoms of COVID-19. If patients have symptoms suggestive of COVID-19, we will ask them to defer their appointment, and will offer them a new one once they have fully recovered.
