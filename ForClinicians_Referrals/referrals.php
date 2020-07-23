@@ -24,9 +24,6 @@
           <p>
             Please be aware that when we contact patients ahead of their appointment, we will now enquire about symptoms of COVID-19. If patients have symptoms suggestive of COVID-19, we will ask them to defer their appointment, and will offer them a new one once they have fully recovered.
           </p>
-          <p>
-            We are vetting all referrals. Some non-urgent appointments may be postponed without a future date being arranged at this stage. If we postpone your patient’s appointment, they will remain on our waiting list and we will contact them in due course. If we consider the PET scan may no longer be necessary, we will endeavour to contact you before cancelling outright.
-          </p>
         </div>
 
         <hr>
@@ -80,7 +77,7 @@
           <div class="LI-text">
             <h1>Reporting</h1>
             <p>
-              The scan report and a CD-ROM containing images to illustrate the report will be sent to the referring clinician, usually within 4-5 working days. Please note that it is not possible to provide hard copy of all of the data generated. In cases where hard copy is supplied, it is simply a representative sample of images to illustrate the report.
+              The images are electronically transferred to the referring trust the morning after the scan date and most reports are sent within 48 hours. Please note that it is not possible to provide hard copy of all of the data generated. In cases where hard copy is supplied, it is simply a representative sample of images to illustrate the report.
             </p>
             <p>
               Referring clinicians are welcome to come to the Centre to review the images on the computer workstation if required.
