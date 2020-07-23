@@ -25,9 +25,6 @@
             When we contact you ahead of your appointment, we will now enquire about symptoms of COVID-19. If you have symptoms, we will ask you to defer your appointment.
           </p>
           <p>
-            Some non-urgent appointments may be postponed without a future date being arranged at this stage. If we postpone your appointment you will remain on our waiting list and we will contact you in due course.
-          </p>
-          <p>
             If you have any questions about your upcoming PET-CT scan please contact us by email or telephone (see the <a href="../ContactUs/contact_us.php">Contact Us</a> page for details). Our phone lines may be busy and there may be a wait for your call to be answered.
           </p>
           <p>
