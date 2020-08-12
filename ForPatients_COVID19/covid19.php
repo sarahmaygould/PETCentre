@@ -5,6 +5,7 @@
     <?php include_once '../head.php'; ?>
     <link rel="stylesheet" type="text/css" href="../Header/header-style.css">
     <link rel="stylesheet" type="text/css" href="../common-style.css">
+    <link rel="stylesheet" type="text/css" href="../ForPatients_YourVisit/your_visit-style.css">
   </head>
 
   <body>
