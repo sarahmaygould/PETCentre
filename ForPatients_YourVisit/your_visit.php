@@ -52,6 +52,8 @@
           More information is available on the GSTT website <a href="https://www.guysandstthomas.nhs.uk/patients-and-visitors/coronavirus/staying-safe.aspx">here</a>.
         </p>
 
+        <hr>
+
         <h1>Patient Information Video</h1>
         <div class="info-video-full">
           <p>
