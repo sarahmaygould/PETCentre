@@ -1,9 +1,9 @@
-#video-guide {
+.video-guide {
   display: block;
   margin: auto;
 }
 
-#info-video-link {
+.info-video-link {
   display: none;
 }
 
@@ -13,11 +13,11 @@
 }
 
 @media screen and (max-width: 650px) {
-  #info-video-link {
+  .info-video-link {
     display: block;
   }
 
-  #info-video-full {
+  .info-video-full {
     display: none;
   }
 
