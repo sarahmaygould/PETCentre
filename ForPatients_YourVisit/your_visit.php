@@ -15,7 +15,7 @@
 
       <div class="page-body">
         <div class="strong-covid">
-          The PET Centre remains open but with some changes due to the COVID-19 pandemic. Please see specific information for patients on our <a href="../ForPatients_COVID19/covid19.php">COVID-19 information page</a>.
+          The PET Centre remains open but with some changes to services due to the COVID-19 pandemic. Please see specific information for patients <a href="../ForPatients_COVID19/covid19.php">here</a>.
         </div>
 
         <div class="page-title">
