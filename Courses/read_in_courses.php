@@ -96,9 +96,11 @@ foreach ($course_array as $course) {
         </p>
         <?php } ?>
 
+        <?php if ($course[14] == "TRUE") { ?>
         <p>
           This <?php echo $course[13] ?> day course is usually held in <?php echo $course[11] ?>. Please check back later for details of how to apply.
         </p>
+      <?php } ?>
       </div>
     </div>
     <hr>
