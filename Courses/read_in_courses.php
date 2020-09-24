@@ -102,7 +102,7 @@ foreach ($course_array as $course) {
       <?php }
       if ($course[15] !== "N/A") {?>
         <p>
-          <a href="<?php echo $course[7]?>" target="_blank">Click here to register your interest.</a>
+          <a href="<?php echo $course[15]?>" target="_blank">Click here to register your interest.</a>
         </p>
       <?php } ?>
       </div>
