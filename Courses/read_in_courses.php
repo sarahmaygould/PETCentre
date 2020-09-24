@@ -70,7 +70,6 @@ foreach ($future_array as $course) {
             The booking for this course is not yet open but please email <a href="mailto:teachingadmin-imaging@kcl.ac.uk">teachingadmin-imaging@kcl.ac.uk</a> to be added to the course mailing list.
           </p>
         <?php } ?>
-
       </div>
     </div>
     <hr>
@@ -98,7 +97,12 @@ foreach ($course_array as $course) {
 
         <?php if ($course[14] == "TRUE") { ?>
         <p>
-          This <?php echo $course[13] ?> day course is usually held in <?php echo $course[11] ?>. Please check back later for details of how to apply.
+          This <?php echo $course[13] ?> day course is usually held in <?php echo $course[11] ?>.
+        </p>
+      <?php }
+      if ($course[15] !== "N/A") {?>
+        <p>
+          <a href="<?php echo $course[7]?>" target="_blank">Click here to register your interest.</a>
         </p>
       <?php } ?>
       </div>
