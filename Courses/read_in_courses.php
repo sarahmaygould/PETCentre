@@ -65,10 +65,12 @@ foreach ($future_array as $course) {
           <p>
             <a href="<?php echo $course[7]?>" target="_blank">Click here for more information and to apply.</a>
           </p>
-        <?php } else { ?>
-          <p>
-            The booking for this course is not yet open but please email <a href="mailto:teachingadmin-imaging@kcl.ac.uk">teachingadmin-imaging@kcl.ac.uk</a> to be added to the course mailing list.
-          </p>
+        <?php } else {
+          if ($course[15] !== "N/A") {?>
+            <p>
+              <a href="<?php echo $course[15]?>" target="_blank">Click here to register your interest.</a>
+            </p>
+          <?php } ?>
         <?php } ?>
       </div>
     </div>
