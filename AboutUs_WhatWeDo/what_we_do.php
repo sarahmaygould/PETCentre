@@ -24,8 +24,11 @@
     				<p>
     					The PET Imaging Centre is part of both  King&#39;s College London's Faculty of Life Sciences and Medicine as well as Guy&#39;s and St Thomas&#39; NHS Foundation Trust. It is the leading clinical PET centre in the UK. Our work includes providing a clinical PET service for patients and carrying out clinically related research with collaborators from the Hospital, the Medical School and other institutions.
     				</p>
+            <!--
             <p>
               As part of the Imaging Service at Guy&#39;s and St Thomas&#39;, the PET Centre is accredited by the United Kingdom Accreditation Service (UKAS) in accordance with the Quality Standard for Imaging (QSI). This means you can trust us to provide a high quality service, delivered by competent staff in a safe environment. You can view a copy of our Certificate of Accreditation <a href="https://verify.ukas.com/37275773-5ec3-429c-9f86-f534a3d169c4#gs.xp3f2u">here</a>.
+            </p>
+            -->
           </div>
         </div>
 
