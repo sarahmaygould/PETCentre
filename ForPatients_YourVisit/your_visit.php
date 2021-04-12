@@ -62,6 +62,9 @@
               All patients who visit the PET Centre are encouraged to leave feedback to help us improve the service we provide.
             </p>
             <p>
+              <a href="../patient_survey">If you have recently visited the PET Centre and would like to send us feedback, please click here to fill in our online patient survey.</a>
+            </p>
+            <p>
               Click on the links below to download the results of our most recent Patient Satisfaction Surveys.
             </p>
             <?php include_once 'read_in_pss.php'; ?>
